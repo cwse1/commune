@@ -1,0 +1,13 @@
+name = "REI Custom Command"
+filename = "REICustomCommand-1.20.1-fabric-2.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5ipLgHDs/versions/xn57ddLt/REICustomCommand-1.20.1-fabric-2.2.0.jar"
+hash-format = "sha512"
+hash = "53a714a1c8c5dfe7d29eebb1efcbd6fc1a5a2d5c87ed068a093c8f488ace1d3d88e9fa331b25e75b27248252774ca9c3e86a0c8730c66675ba184c875cba2792"
+
+[update]
+[update.modrinth]
+mod-id = "5ipLgHDs"
+version = "xn57ddLt"

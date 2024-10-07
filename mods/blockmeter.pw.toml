@@ -1,0 +1,13 @@
+name = "Block Meter"
+filename = "blockmeter-1.11.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oGU9LXKC/versions/Yodd55SA/blockmeter-1.11.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "c8dcf502ad1b8c407b954ab957e8b190eb152011fbc2727b17232dce1ebba5f0aa9cf3ea6a99d806fc53719705db650bc6d07233f5428cf4219135d50bbd23d7"
+
+[update]
+[update.modrinth]
+mod-id = "oGU9LXKC"
+version = "Yodd55SA"
