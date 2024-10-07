@@ -1,0 +1,4 @@
+tmp/
+plans/
+*.mrpack
+quilt*.jar

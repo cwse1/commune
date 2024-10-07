@@ -1,0 +1,13 @@
+name = "Plasmid"
+filename = "plasmid-0.5.101+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xUvfRSZh/versions/4pL4azyr/plasmid-0.5.101%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "d7655ca74ec8195a8faa2388214295ee715285b35852d0e82c658445ebec5510e94594aaae2d8e275b745bff1695ca8f11be84b89c87132ee8ded047665febea"
+
+[update]
+[update.modrinth]
+mod-id = "xUvfRSZh"
+version = "4pL4azyr"

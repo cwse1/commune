@@ -1,0 +1,13 @@
+name = "[Let's Do] Camping"
+filename = "letsdo-camping-fabric-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uJXTNuf0/versions/3A8FBmPP/letsdo-camping-fabric-1.0.4.jar"
+hash-format = "sha512"
+hash = "192cdf8c81cefd1fad676f0bf204e3950975ebb898d66acf45eeaf960cd22ff56eb215d228eafda8240e83d1351ded098e1c888a1b18c635a88baf8d83d398f6"
+
+[update]
+[update.modrinth]
+mod-id = "uJXTNuf0"
+version = "3A8FBmPP"
