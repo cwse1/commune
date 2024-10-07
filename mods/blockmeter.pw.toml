@@ -1,0 +1,47 @@
+name = "Block Meter"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+filename = "blockmeter-1.11.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oGU9LXKC/versions/rXnhVxzq/blockmeter-1.11.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "f76cbec26296adaa461987a2b79ef27dc68f82e8ec1c44dc1c467e853e4ab30e57f7dcae7c812bf3dcc361444465f7fea3229d2905433009df9ef3935b5e6896"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+filename = "blockmeter-1.11.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oGU9LXKC/versions/Yodd55SA/blockmeter-1.11.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "c8dcf502ad1b8c407b954ab957e8b190eb152011fbc2727b17232dce1ebba5f0aa9cf3ea6a99d806fc53719705db650bc6d07233f5428cf4219135d50bbd23d7"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+
+[update]
+[update.modrinth]
+mod-id = "oGU9LXKC"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "rXnhVxzq"
+=======
+<<<<<<< HEAD
+version = "rXnhVxzq"
+=======
+version = "Yodd55SA"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "rXnhVxzq"
+>>>>>>> bebe9ca (init)

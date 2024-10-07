@@ -1,0 +1,47 @@
+name = "Dynamic FPS"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+filename = "dynamic-fps-3.7.6+minecraft-1.20.0-quilt.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/70gU5DhH/dynamic-fps-3.7.6%2Bminecraft-1.20.0-quilt.jar"
+hash-format = "sha512"
+hash = "c98873ba8db2afe84fd7302dcbd6439c81f6f0606d8e509b4ac891662afa407f3b7f8d9d6a9a9f552bb3bcf34483fdcd4fc91324b7dac3da7908c2ed50e2235c"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+filename = "dynamic-fps-3.7.3+minecraft-1.20.0-quilt.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/sJopNQnL/dynamic-fps-3.7.3%2Bminecraft-1.20.0-quilt.jar"
+hash-format = "sha512"
+hash = "a18cc07e06d0e5ed17d32f7ba9cf21becf2152295b8e968bfc4f33a402ae9be4c6ed38cb19a3f8983f3f713909d48cc34a93da65f990f72839eb63e998bb6365"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+
+[update]
+[update.modrinth]
+mod-id = "LQ3K71Q1"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "70gU5DhH"
+=======
+<<<<<<< HEAD
+version = "70gU5DhH"
+=======
+version = "sJopNQnL"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "70gU5DhH"
+>>>>>>> bebe9ca (init)

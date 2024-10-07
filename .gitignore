@@ -1,0 +1,22 @@
+plans/
+tmp/
+<<<<<<< HEAD
+*.mrpack
+<<<<<<< HEAD
+quilt*.jar
+=======
+<<<<<<< HEAD
+quilt*.jar
+=======
+configbak/
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+localscripts/
+*.mrpack
+*.zip
+betaconf/
+configbak/
+world/
+quilt*.jar
+>>>>>>> bebe9ca (init)

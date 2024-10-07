@@ -1,0 +1,53 @@
+name = "Commune"
+author = "cwse"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "2.0.0"
+=======
+<<<<<<< HEAD
+version = "2.0.0"
+=======
+version = "2.0.0beta.1"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "2.0.0lbeta.3"
+>>>>>>> bebe9ca (init)
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+<<<<<<< HEAD
+<<<<<<< HEAD
+hash = "af0b83c66e2d10722e2c0622c02261bc98715c6a9ec694c92aa0d3227537517e"
+=======
+<<<<<<< HEAD
+hash = "d414074a06b55659137afffbe227a8a645a8b45cf24604799107ecc35f742630"
+=======
+hash = "718d14f9b0fb292121056c365f04e0159e1afac7013edee5a8963bd56c1d15e5"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+hash = "b9ae182ddd0afcb9ce201c41b08bda522bbf02b84ae73e9280b4ca4725f16e6e"
+>>>>>>> bebe9ca (init)
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.26.4"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+[options]
+acceptable-game-versions = []
+datapack-folder = "datapacks"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+
+[options]
+acceptable-game-versions = []
+>>>>>>> bebe9ca (init)

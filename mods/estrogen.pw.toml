@@ -1,0 +1,47 @@
+name = "Create: Estrogen"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+filename = "Estrogen-4.3.0+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HhIJW8n1/versions/zMRp7AEJ/Estrogen-4.3.0%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "b9674ea07f694bd512b6bc4314e49361328405e9d779940263bad413a2cc16bf39a7b8e0c6b339094f3d4941827b6aba4e66cae963736968ce3505a0a83cd78a"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+filename = "Estrogen-4.2.10+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HhIJW8n1/versions/o7yAKWiG/Estrogen-4.2.10%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "0e2095637483d84d3181b974b6b7c976d5d2c9e80fbf8bc240b1393c04baf44765a85e6eb6228c5e8086f6d32afac5b30ca95acb918eb6ec825e244ffdb98f28"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+
+[update]
+[update.modrinth]
+mod-id = "HhIJW8n1"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "zMRp7AEJ"
+=======
+<<<<<<< HEAD
+version = "zMRp7AEJ"
+=======
+version = "o7yAKWiG"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "zMRp7AEJ"
+>>>>>>> bebe9ca (init)

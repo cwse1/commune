@@ -1,0 +1,42 @@
+#.
+#Settings which are more fun and not fit for survival
+[minigame]
+	#.
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+	#Enable/Disable all minigame settings
+	minigameEnabled = true
+	#.
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+	#Enable/Disable all minigame settings
+	minigameEnabled = true
+	#.
+>>>>>>> bebe9ca (init)
+	#Gives you permanent, unremovable Girl Power Effect
+	permaDash = true
+	#.
+	#The level of Girl Power Effect when Perma-Dash is enabled
+	#Range: 0 ~ 255
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+	permaDashAmount = 2
+	#.
+	#Enable/Disable all minigame settings
+	minigameEnabled = true
+<<<<<<< HEAD
+=======
+=======
+	permaDashAmount = 5
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+	permaDashAmount = 5
+>>>>>>> bebe9ca (init)

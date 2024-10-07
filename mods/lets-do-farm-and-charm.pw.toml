@@ -1,0 +1,47 @@
+name = "[Let's Do] Farm and Charm"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+filename = "letsdo-farm_and_charm-fabric-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HJetCzWo/versions/Dsk6WutR/letsdo-farm_and_charm-fabric-1.0.4.jar"
+hash-format = "sha512"
+hash = "6bc3578136aaadb1bfc68fd10f21a044991687984d7824da307c94c73bd618c61b1fa4c77cb73cce41d388d3b960d5e591dadb5ea4dd35fd31b6c62e6ef77503"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+filename = "letsdo-farm_and_charm-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HJetCzWo/versions/5hscyRtZ/letsdo-farm_and_charm-fabric-1.0.3.jar"
+hash-format = "sha512"
+hash = "6e020eb24e85a3bf3a194d65e41e58ff37f5990e1959b5998aa175a5a4e83cba2dd65587654cc35de8421ec51ce2aaf99e43c3092eb5e7725d650648286bfe0f"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+
+[update]
+[update.modrinth]
+mod-id = "HJetCzWo"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "Dsk6WutR"
+=======
+<<<<<<< HEAD
+version = "Dsk6WutR"
+=======
+version = "5hscyRtZ"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "Dsk6WutR"
+>>>>>>> bebe9ca (init)

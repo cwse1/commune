@@ -1,0 +1,47 @@
+name = "[ETF] Entity Texture Features"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+filename = "entity_texture_features_fabric_1.20.1-6.2.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/sfu0cEQ7/entity_texture_features_fabric_1.20.1-6.2.7.jar"
+hash-format = "sha512"
+hash = "cbd709ed2ae63a34587fc2c243802ed7af71138ad699b4e868d04568eba9d1042835541e1626d89fd000d62b62d1e526e58620b1395b7075bf2c48285ed91fba"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+filename = "entity_texture_features_fabric_1.20.1-6.2.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/YVBDOKy0/entity_texture_features_fabric_1.20.1-6.2.5.jar"
+hash-format = "sha512"
+hash = "969ab353103084021a65dc96c0278f2451ede401185b247ea52629fc68e205c878621e128746cfdff19c8c51b8a52d34e5f0a09c604c1aaa3ec2fbe7c8240d34"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+
+[update]
+[update.modrinth]
+mod-id = "BVzZfTc1"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "sfu0cEQ7"
+=======
+<<<<<<< HEAD
+version = "sfu0cEQ7"
+=======
+version = "YVBDOKy0"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "sfu0cEQ7"
+>>>>>>> bebe9ca (init)

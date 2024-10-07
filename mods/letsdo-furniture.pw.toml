@@ -1,0 +1,47 @@
+name = "[Let's Do] Furniture"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+filename = "letsdo-furniture-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3JQDJrYW/versions/ovQwq79L/letsdo-furniture-fabric-1.0.3.jar"
+hash-format = "sha512"
+hash = "6007b4137fe48902a67d3c9ffee079f9e2982b095ea26f331e20002a7b740699fbe5aff751c6d2ac53b18a997867d1bdbf5656738e65c956502027c032c43329"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+filename = "letsdo-furniture-fabric-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3JQDJrYW/versions/sxsgBlNp/letsdo-furniture-fabric-1.0.2.jar"
+hash-format = "sha512"
+hash = "6f1b43c2db34434af874ec59826c7af71df49b2d6dc622be8aaefc0a4d7611d3e76cc0b5ffcabadaa033b4db5b8de6001a4b74894e63c3e83475fc22f43ee22c"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+
+[update]
+[update.modrinth]
+mod-id = "3JQDJrYW"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "ovQwq79L"
+=======
+<<<<<<< HEAD
+version = "ovQwq79L"
+=======
+version = "sxsgBlNp"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "ovQwq79L"
+>>>>>>> bebe9ca (init)

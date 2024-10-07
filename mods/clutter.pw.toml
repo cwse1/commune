@@ -1,0 +1,47 @@
+name = "Clutter"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+filename = "clutter-1.20-0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZAmykow/versions/IM549pNB/clutter-1.20-0.6.0.jar"
+hash-format = "sha512"
+hash = "11e486324814aaf9706f8cd44f60e1b304490e239737055f72746d2634e9fdf1840e02a844efbbfb7b7e64f90ff40c10ed48557c1db481be7b7b35707daab7fd"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+filename = "clutter-1.20-0.5.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZAmykow/versions/uAxHhsr2/clutter-1.20-0.5.11.jar"
+hash-format = "sha512"
+hash = "26fcc7cb1f03c53de2b0b7bb7aa4de9f1efe3df3dfcdf3b70845983b0a89c2d890d05ee93fab363138d9d83eb99caec0ee2090c4a5abab8b5ac90a31614599cc"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> bebe9ca (init)
+
+[update]
+[update.modrinth]
+mod-id = "KZAmykow"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "IM549pNB"
+=======
+<<<<<<< HEAD
+version = "IM549pNB"
+=======
+version = "uAxHhsr2"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "IM549pNB"
+>>>>>>> bebe9ca (init)
