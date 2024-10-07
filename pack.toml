@@ -1,0 +1,16 @@
+name = "Commune"
+author = "cwse"
+version = "2.0.0lbeta.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ef529885ffe5d21f1d39a45adeb4529dae5991359d98dcc1d8f8000f28671e9c"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.26.4"
+
+[options]
+acceptable-game-versions = []
