@@ -1,0 +1,8 @@
+tmp/
+plans/
+configbak/
+*.mrpack
+*.zip
+world/
+betaconf/
+localscripts/

@@ -1,0 +1,17 @@
+name = "Commune"
+author = "cwse"
+version = "2.0.0beta.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9efed8a9ea6bd07c9da5bbe2075f826c002b451830c827bf884554e0013b65a4"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.26.4"
+
+[options]
+acceptable-game-versions = []
+datapack-folder = "datapacks"

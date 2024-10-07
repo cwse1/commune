@@ -1,0 +1,8 @@
+{
+	"favorites": [
+		"{data:{amount:81000L,id:\"create_enchantment_industry:experience\",type:\"minecraft:fluid\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{amount:81000L,id:\"create_enchantment_industry:hyper_experience\",type:\"minecraft:fluid\"},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}
