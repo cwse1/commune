@@ -1,0 +1,6 @@
+{
+  "resource_pack_address": "http://127.0.0.1:25566/resource-packs",
+  "web_server": {
+    "port": 25566
+  }
+}

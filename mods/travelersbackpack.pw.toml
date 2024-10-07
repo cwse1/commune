@@ -1,0 +1,47 @@
+name = "Traveler's Backpack"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> e8d94d6 (init)
+filename = "travelersbackpack-fabric-1.20.1-9.1.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/ZHltcaKk/travelersbackpack-fabric-1.20.1-9.1.18.jar"
+hash-format = "sha512"
+hash = "b7e380237142b94f9feef712f2c519896efc2f63ffb6d7f90caa279fafbe404d87e080988568a4e70850d4e0953eb866501583b56383d13d6f44969a08d9c59d"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+filename = "travelersbackpack-fabric-1.20.1-9.1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/554ySzkW/travelersbackpack-fabric-1.20.1-9.1.17.jar"
+hash-format = "sha512"
+hash = "2e8c435f837a93e4ff937bbe479e9f553f287a79d16e03e6ff0bfc956f8822ddb11dc532b41fc4b343ee38bb74078a4daacd6390612a03d7cd31bb58cb061574"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> e8d94d6 (init)
+
+[update]
+[update.modrinth]
+mod-id = "rlloIFEV"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "ZHltcaKk"
+=======
+<<<<<<< HEAD
+version = "ZHltcaKk"
+=======
+version = "554ySzkW"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "ZHltcaKk"
+>>>>>>> e8d94d6 (init)

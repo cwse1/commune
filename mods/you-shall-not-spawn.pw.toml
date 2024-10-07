@@ -1,0 +1,47 @@
+name = "You Shall Not Spawn!"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+filename = "YouShallNotSpawn-fabric-1.20.x-2.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EjXcpmEA/versions/2CpnF7bC/YouShallNotSpawn-fabric-1.20.x-2.0.2.jar"
+hash-format = "sha512"
+hash = "a409e0040396da04a8ca2831dfe78dda05519ea8fc4d3ac7e076d04a2996e46d225ee1501cd7e5d10faf978a9a9eb2a92e12835f324825e30b2032735b8e8e48"
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> e8d94d6 (init)
+filename = "YouShallNotSpawn-fabric-1.20.x-2.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EjXcpmEA/versions/eGwxWyH4/YouShallNotSpawn-fabric-1.20.x-2.0.1.jar"
+hash-format = "sha512"
+hash = "fc368dc50bc877bffe2fe50e051c80d1acd48443cfb53beedb5926df2693c16f03b69507c94d50bb1e97af07b278076267fa09db2be32cece483cf5f392d82b3"
+<<<<<<< HEAD
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> e8d94d6 (init)
+
+[update]
+[update.modrinth]
+mod-id = "EjXcpmEA"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "2CpnF7bC"
+=======
+<<<<<<< HEAD
+version = "2CpnF7bC"
+=======
+version = "eGwxWyH4"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "eGwxWyH4"
+>>>>>>> e8d94d6 (init)

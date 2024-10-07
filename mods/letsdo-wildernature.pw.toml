@@ -1,0 +1,47 @@
+name = "[Let's Do] WilderNature"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+filename = "letsdo-wildernature-fabric-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AAiRU4aQ/versions/NUbZiKpN/letsdo-wildernature-fabric-1.0.4.jar"
+hash-format = "sha512"
+hash = "b3bba4a5bbafc27d8b6af051269ae162ea941f554b48e01565c3a0c75205d79165a40a7574d082d40d0124a75b9793febbe8b6589171cdbd53324599e852d425"
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> e8d94d6 (init)
+filename = "letsdo-wildernature-fabric-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AAiRU4aQ/versions/O84Ab1Bd/letsdo-wildernature-fabric-1.0.2.jar"
+hash-format = "sha512"
+hash = "680a567968da493e7e00bbf34c975d73cd616ce01e7c118efebba354dbeaad086129cf78b1e524196846ee373705eb3f4dfbb707f00c8d63d656ddf8aff33807"
+<<<<<<< HEAD
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> e8d94d6 (init)
+
+[update]
+[update.modrinth]
+mod-id = "AAiRU4aQ"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "NUbZiKpN"
+=======
+<<<<<<< HEAD
+version = "NUbZiKpN"
+=======
+version = "O84Ab1Bd"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "O84Ab1Bd"
+>>>>>>> e8d94d6 (init)

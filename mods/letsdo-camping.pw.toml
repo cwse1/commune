@@ -1,0 +1,47 @@
+name = "[Let's Do] Camping"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+filename = "letsdo-camping-fabric-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uJXTNuf0/versions/3A8FBmPP/letsdo-camping-fabric-1.0.4.jar"
+hash-format = "sha512"
+hash = "192cdf8c81cefd1fad676f0bf204e3950975ebb898d66acf45eeaf960cd22ff56eb215d228eafda8240e83d1351ded098e1c888a1b18c635a88baf8d83d398f6"
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> e8d94d6 (init)
+filename = "letsdo-camping-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uJXTNuf0/versions/wKjtCqEi/letsdo-camping-fabric-1.0.3.jar"
+hash-format = "sha512"
+hash = "bf8fb1e70a447bae6a75d65cc5bbb60bc34064dc16053afb7858d04b76ef823bb2db4f7cc9472e879cc24df4ea22049680f2c39596ab63dde78de39d0e670c04"
+<<<<<<< HEAD
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> e8d94d6 (init)
+
+[update]
+[update.modrinth]
+mod-id = "uJXTNuf0"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "3A8FBmPP"
+=======
+<<<<<<< HEAD
+version = "3A8FBmPP"
+=======
+version = "wKjtCqEi"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "wKjtCqEi"
+>>>>>>> e8d94d6 (init)

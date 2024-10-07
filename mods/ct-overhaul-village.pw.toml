@@ -1,0 +1,47 @@
+name = "ChoiceTheorem's Overhauled Village"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+filename = "[fabric]ctov-3.4.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/tpKHcPzx/%5Bfabric%5Dctov-3.4.10.jar"
+hash-format = "sha512"
+hash = "6bec2cabba22cde27d1dc3546a3c559451cc1eb2044b612bc975f497fb48d21a4fcfe4f2012102997fb11d7536dadcdabdc61ded4cc3ca02e7dda272007a74c4"
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> e8d94d6 (init)
+filename = "[Fabric]CTOV-3-4-9a.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/CGCwEJfv/%5BFabric%5DCTOV-3-4-9a.jar"
+hash-format = "sha512"
+hash = "49f75295fc1d1851c6b4ce017c4314b10bfed546e803cd24e6cc9d93d47db4c45698fb41c0cadf2a43646c7c42f56aff55186ccde2faca2d2db193cb3c03077e"
+<<<<<<< HEAD
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> e8d94d6 (init)
+
+[update]
+[update.modrinth]
+mod-id = "fgmhI8kH"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "tpKHcPzx"
+=======
+<<<<<<< HEAD
+version = "tpKHcPzx"
+=======
+version = "CGCwEJfv"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "CGCwEJfv"
+>>>>>>> e8d94d6 (init)

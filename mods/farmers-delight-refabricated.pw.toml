@@ -1,0 +1,47 @@
+name = "Farmer's Delight Refabricated"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+filename = "FarmersDelight-1.20.1-2.2.0+refabricated.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7vxePowz/versions/vXPVU0EZ/FarmersDelight-1.20.1-2.2.0%2Brefabricated.jar"
+hash-format = "sha512"
+hash = "5bc962b9aa4628fe0b0722a811d39109c05002d0e80abaf8ad89b0b20568c0c9bc9ce3246987802846f04c17cd9149b7eb036d9afbca63c1cc35157edfe1eef7"
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> e8d94d6 (init)
+filename = "FarmersDelight-1.20.1-2.1.6+refabricated.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7vxePowz/versions/NoioB3or/FarmersDelight-1.20.1-2.1.6%2Brefabricated.jar"
+hash-format = "sha512"
+hash = "afe960441c735d18f6ccb5a8678b1beb6d37032c89b13a1e7c9b627ba6cde9161b4e51876a73d9972e65c0ca417595e51353e4549b73ebc512fc5da81c2a856a"
+<<<<<<< HEAD
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> e8d94d6 (init)
+
+[update]
+[update.modrinth]
+mod-id = "7vxePowz"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "vXPVU0EZ"
+=======
+<<<<<<< HEAD
+version = "vXPVU0EZ"
+=======
+version = "NoioB3or"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "NoioB3or"
+>>>>>>> e8d94d6 (init)

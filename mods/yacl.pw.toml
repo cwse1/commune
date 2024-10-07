@@ -1,0 +1,47 @@
+name = "YetAnotherConfigLib"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+filename = "YetAnotherConfigLib-3.6.1+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/nYfjbBJd/YetAnotherConfigLib-3.6.1%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "b3fa9eb67f853535e32260af86e51c751f232809a1a7f4cae8f90344aed8862609d93e0c6e0fbb6ec89625dbde1fe30245585d710112c8c421780589d323cf1d"
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> e8d94d6 (init)
+filename = "YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/gQuF6HNa/YetAnotherConfigLib-3.5.0%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "a7f86b8385948589e8951c02e91a57931408e8af2b1bfad9021da26fd4d162682ea39cd50915e4049a74331221de462f0dd76a730e758f2c6c005ff73d87554a"
+<<<<<<< HEAD
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> e8d94d6 (init)
+
+[update]
+[update.modrinth]
+mod-id = "1eAoo2KR"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "nYfjbBJd"
+=======
+<<<<<<< HEAD
+version = "nYfjbBJd"
+=======
+version = "gQuF6HNa"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "gQuF6HNa"
+>>>>>>> e8d94d6 (init)

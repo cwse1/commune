@@ -1,0 +1,19 @@
+tmp/
+plans/
+<<<<<<< HEAD
+<<<<<<< HEAD
+*.mrpack
+quilt*.jar
+=======
+<<<<<<< HEAD
+*.mrpack
+quilt*.jar
+=======
+configbak/
+*.mrpack
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+configbak/
+*.mrpack
+>>>>>>> e8d94d6 (init)

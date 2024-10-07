@@ -1,0 +1,47 @@
+name = "3D Skin Layers"
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+filename = "skinlayers3d-fabric-1.7.1-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/SQ2XuRbE/skinlayers3d-fabric-1.7.1-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "4a16f801281e2f8f8cfb158b61a590886dca76908a7c2c85db034c15b755c2c67f763c270ea3cfa8cbf39ac04ca8fa5ab184a643d796c6155eead468867564bc"
+<<<<<<< HEAD
+=======
+=======
+=======
+>>>>>>> e8d94d6 (init)
+filename = "skinlayers3d-fabric-1.6.7-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/kFPX5Wmk/skinlayers3d-fabric-1.6.7-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "967f50302b9d0aabd1f5f8b70df4e49df356e7a3e52dda322f45aa44e20b9c9008d40bdbe3c0af579dad07abb8cd2295c441475c36f2afb3fcb4c39fbf7c25e8"
+<<<<<<< HEAD
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+>>>>>>> e8d94d6 (init)
+
+[update]
+[update.modrinth]
+mod-id = "zV5r3pPn"
+<<<<<<< HEAD
+<<<<<<< HEAD
+version = "SQ2XuRbE"
+=======
+<<<<<<< HEAD
+version = "SQ2XuRbE"
+=======
+version = "kFPX5Wmk"
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+=======
+version = "kFPX5Wmk"
+>>>>>>> e8d94d6 (init)
