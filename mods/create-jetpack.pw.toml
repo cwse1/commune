@@ -1,0 +1,13 @@
+name = "Create Jetpack"
+filename = "create_jetpack-fabric-4.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UbFnAd4l/versions/IwBgWAGw/create_jetpack-fabric-4.2.0.jar"
+hash-format = "sha256"
+hash = "84c583decbf5721ba8d706dad1516f671b3fee358fa605cd2b6d8637af8e6df9"
+
+[update]
+[update.modrinth]
+mod-id = "UbFnAd4l"
+version = "IwBgWAGw"

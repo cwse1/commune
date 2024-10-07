@@ -1,0 +1,13 @@
+name = "Show Me Your Skin!"
+filename = "show-me-your-skin-1.9.0+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bD7YqcA3/versions/acq6mVBP/show-me-your-skin-1.9.0%2B1.20.jar"
+hash-format = "sha256"
+hash = "7145f140d00c7d58bf73fb2d1cd161d22df450aa1cc87a136df51fdc1192b100"
+
+[update]
+[update.modrinth]
+mod-id = "bD7YqcA3"
+version = "acq6mVBP"

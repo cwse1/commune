@@ -1,0 +1,13 @@
+name = "Rhino"
+filename = "rhino-fabric-2001.2.3-build.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sk9knFPE/versions/WradV9Zu/rhino-fabric-2001.2.3-build.6.jar"
+hash-format = "sha256"
+hash = "9c564d437a96d342890715d07eae69ceb0ffea509b92835fdd582f9fc2f492ff"
+
+[update]
+[update.modrinth]
+mod-id = "sk9knFPE"
+version = "WradV9Zu"

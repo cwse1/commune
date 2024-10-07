@@ -1,0 +1,13 @@
+name = "Star Wars Planets"
+filename = "swplanets-fabric-1.20.1-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sgQirvDi/versions/wCH6gVb4/swplanets-fabric-1.20.1-1.4.5.jar"
+hash-format = "sha256"
+hash = "f1c25298892b28387f92e2a2a5a1cdb830880bd5bcf0522b1c2f0fc5fec291fb"
+
+[update]
+[update.modrinth]
+mod-id = "sgQirvDi"
+version = "wCH6gVb4"

@@ -1,0 +1,37 @@
+{
+  // ----------------------------------------------------------------------------------------------------------------
+  //                                     You Shall Not Spawn by ElocinDev.
+  //                                          disabled_entities.json5
+  // ----------------------------------------------------------------------------------------------------------------
+  //  
+  // Here you can disable entities from spawning globally, with no exceptions.
+  // Format: "modid:entity_name"
+  // Example: "minecraft:zombie"
+  //  
+  // Note: As a more advanced method, you can use regex by starting the entry with !
+  // Format: "!{Regular expression}"
+  // Example: "!minecraft:.*" will disable all entities from minecraft. (NOT RECOMMENDED, JUST AN EXAMPLE)
+  //  
+  "disabled": [
+    "minecraft:bat",
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+    "vinery:mule",
+    "terraform:boat",
+    "terraform:chest_boat"
+  ],
+  // Don't touch this!
+  "CONFIG_VERSION": 1
+}
+<<<<<<< HEAD
+=======
+=======
+    "vinery:mule"
+  ],
+  // Don't touch this!
+  "CONFIG_VERSION": 1
+}
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)

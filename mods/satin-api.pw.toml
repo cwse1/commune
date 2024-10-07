@@ -1,0 +1,13 @@
+name = "Satin API"
+filename = "satin-1.14.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRbqPLg4/versions/e3HU1vAD/satin-1.14.0.jar"
+hash-format = "sha256"
+hash = "9191d74a4be2b6e493792a5b67e55acd91b1c614e5c835c5cd874f0e29358d95"
+
+[update]
+[update.modrinth]
+mod-id = "fRbqPLg4"
+version = "e3HU1vAD"

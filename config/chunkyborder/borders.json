@@ -1,0 +1,26 @@
+{
+  "minecraft:overworld": {
+    "world": "minecraft:overworld",
+    "centerX": 0.0,
+    "centerZ": 0.0,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+    "radiusX": 25000.0,
+    "radiusZ": 25000.0,
+    "shape": "square",
+    "wrap": "none"
+  }
+}
+<<<<<<< HEAD
+=======
+=======
+    "radiusX": 20000.0,
+    "radiusZ": 20000.0,
+    "shape": "square",
+    "wrap": "none"
+  }
+}
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)

@@ -1,0 +1,13 @@
+name = "Cinderscapes"
+filename = "cinderscapes-4.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QC4wcUXZ/versions/J1toYNYJ/cinderscapes-4.0.10.jar"
+hash-format = "sha256"
+hash = "f4bf4b575cb71a2a37e5e749d86f399b9390dbe3b0c00d6d16cc9fbb1b49d58e"
+
+[update]
+[update.modrinth]
+mod-id = "QC4wcUXZ"
+version = "J1toYNYJ"

@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Apple Wood"
+filename = "letsdo-addon-applewood-fabric-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vIxesWnr/versions/gh3784p8/letsdo-addon-applewood-fabric-1.0.1.jar"
+hash-format = "sha256"
+hash = "0454d08127bdbc419f73bc9f26203036ab5d86ff61e33bbd3b91142ec8d832fa"
+
+[update]
+[update.modrinth]
+mod-id = "vIxesWnr"
+version = "gh3784p8"

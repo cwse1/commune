@@ -1,0 +1,13 @@
+name = "Dawn API"
+filename = "dawn-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/meZK2DCX/versions/J6b05anw/dawn-5.0.0.jar"
+hash-format = "sha256"
+hash = "6346c996358b889a5b0c3102889b71ffe16dd3852e06e6579d0f7f0d47d29313"
+
+[update]
+[update.modrinth]
+mod-id = "meZK2DCX"
+version = "J6b05anw"

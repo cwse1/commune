@@ -1,0 +1,13 @@
+name = "Tempad"
+filename = "tempad-fabric-1.20.1-2.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gKNwt7xu/versions/XWIpedqY/tempad-fabric-1.20.1-2.3.4.jar"
+hash-format = "sha256"
+hash = "629fb4e667048169c560fc5e604b0982994b0b5833d5c0a53ec2e4ec913b4032"
+
+[update]
+[update.modrinth]
+mod-id = "gKNwt7xu"
+version = "XWIpedqY"

@@ -1,0 +1,13 @@
+name = "Exposure"
+filename = "exposure-1.20.1-1.7.7-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hB899VmG/versions/LB4dHaVf/exposure-1.20.1-1.7.7-fabric.jar"
+hash-format = "sha256"
+hash = "2436ab698e34f46bddb1c75d80cb5e33461e5669d4b49ea9035f1b305f3366a3"
+
+[update]
+[update.modrinth]
+mod-id = "hB899VmG"
+version = "LB4dHaVf"

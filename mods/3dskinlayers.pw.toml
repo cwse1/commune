@@ -1,0 +1,8 @@
+name = "3D Skin Layers"
+filename = "skinlayers3d-fabric-1.7.1-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/SQ2XuRbE/skinlayers3d-fabric-1.7.1-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "01d2db21188925d38e0d8f7cbed0f5af33e00c5e0279fd10d1b96b1343a09d4c"

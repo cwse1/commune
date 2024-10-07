@@ -1,0 +1,14 @@
+name = "Create: Interiors"
+filename = "interiors-0.5.3+fabric-mc1.20.1.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/r4Knci2k/versions/7QGvBpZU/interiors-0.5.3%2Bfabric-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "a7a57cc227ff65d2114313dced70e748e2e86c52d8b76daaa5edb493d42d0371"
+
+[update]
+[update.modrinth]
+mod-id = "r4Knci2k"
+version = "7QGvBpZU"

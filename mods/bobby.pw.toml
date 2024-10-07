@@ -1,0 +1,13 @@
+name = "Bobby"
+filename = "bobby-5.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/2cuVyTav/bobby-5.0.1.jar"
+hash-format = "sha256"
+hash = "7b6e8e3a4797d32de1c48cd727ddab9f31705672850b3609d019b3ae2e51a61a"
+
+[update]
+[update.modrinth]
+mod-id = "M08ruV16"
+version = "2cuVyTav"

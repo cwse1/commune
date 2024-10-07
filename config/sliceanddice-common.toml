@@ -1,0 +1,25 @@
+[slicer]
+	consume_tool_durability = true
+	ignore_rotation = false
+<<<<<<< HEAD
+[basin_cooking]
+	replace_fluid_containers = true
+	enabled = true
+=======
+<<<<<<< HEAD
+[basin_cooking]
+	replace_fluid_containers = true
+	enabled = true
+=======
+
+[basin_cooking]
+	enabled = true
+	replace_fluid_containers = true
+
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+[sprinkler]
+	#Range: 10 ~ 2048
+	fluid_capacity = 300
+	#Range: 0 ~ 2048
+	fluid_per_use = 100

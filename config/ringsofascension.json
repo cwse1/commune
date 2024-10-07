@@ -1,0 +1,78 @@
+{
+	// General configs
+	"general": {
+		// The cooldown in seconds of the Ring of Undying
+		"ringUndyingCooldown": 600,
+
+		// The amount of hearts that Ring of Max Health gives you.
+		"ringHealthHearts": 10
+	},
+
+	// Enable/Disable Rings
+	"enableRings": {
+		"ringFireResistance": true,
+		"ringInvisibility": true,
+		"ringRegeneration": true,
+		"ringSlowFalling": true,
+		"ringStrength": true,
+		"ringWaterBreathing": true,
+		"ringSpeed": true,
+		"ringNightVision": true,
+		"ringJumpBoost": true,
+		"ringMining": true,
+		"ringLuck": true,
+		"ringDolphin": true,
+		"ringMagnetism": true,
+		"ringFlight": true,
+		"ringPoisonResistance": true,
+		"ringHungerless": true,
+		"ringGrowth": true,
+		"ringKnockbackResistance": true,
+		"ringHealth": true,
+		"ringSponge": true,
+		"ringLavaSponge": true,
+		"ringExperience": true,
+		"ringWaterWalking": true,
+		"ringWither": true,
+		"ringUndying": true,
+		"ringSlowResistance": true,
+		"ringSteadfastSteps": true
+	},
+
+	// Sets the amplifier of the effect given by the ring. Example: 0 = Fire Resistance I; 1 = Fire Resistance II
+	"amplifiers": {
+		"ringAmplifierFireResistance": 1,
+		"ringAmplifierInvisibility": 0,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 59f1721 (init)
+		"ringAmplifierRegeneration": 2,
+		"ringAmplifierSlowFalling": 0,
+		"ringAmplifierStrength": 2,
+		"ringAmplifierWaterBreathing": 1,
+		"ringAmplifierSpeed": 2,
+		"ringAmplifierNightVision": 0,
+		"ringAmplifierJumpBoost": 0,
+		"ringAmplifierMining": 1,
+		"ringAmplifierLuck": 3,
+		"ringAmplifierDolphin": 2
+	}
+}
+<<<<<<< HEAD
+=======
+=======
+		"ringAmplifierRegeneration": 3,
+		"ringAmplifierSlowFalling": 0,
+		"ringAmplifierStrength": 3,
+		"ringAmplifierWaterBreathing": 1,
+		"ringAmplifierSpeed": 3,
+		"ringAmplifierNightVision": 0,
+		"ringAmplifierJumpBoost": 0,
+		"ringAmplifierMining": 3,
+		"ringAmplifierLuck": 3,
+		"ringAmplifierDolphin": 3
+	}
+}
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)

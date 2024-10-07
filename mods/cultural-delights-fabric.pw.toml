@@ -1,0 +1,13 @@
+name = "Cultural Delights [Fabric]"
+filename = "cultural-delights-fabric-1.0.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Gy8sTXS/versions/VmsNBbCQ/cultural-delights-fabric-1.0.5%2B1.20.1.jar"
+hash-format = "sha256"
+hash = "1ac651b63dec9218af57bbe05ef6e6ebafeeb897bfe98d0caeb5e7868e37e5a0"
+
+[update]
+[update.modrinth]
+mod-id = "9Gy8sTXS"
+version = "VmsNBbCQ"

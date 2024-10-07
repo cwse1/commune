@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+[worldgen]
+=======
+<<<<<<< HEAD
+[worldgen]
+=======
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
+	#.
+	#Modify Create: Dreams n' Desire's impact on your terrain
+	[worldgen.v2]
+		#.
+		#.
+		#Prevents all worldgen added by Create: Dreams n' Desire's from taking effect
+		disableWorldGen = false

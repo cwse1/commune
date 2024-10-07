@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Corn Expansion"
+filename = "cornexpansion-fabric-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/20p2kirx/versions/yyZXHfQi/cornexpansion-fabric-1.0.1.jar"
+hash-format = "sha256"
+hash = "42a2bb9d41b85ce7d81b929ac811bdd631e06c46f01b33fa41a748d5a135f75a"
+
+[update]
+[update.modrinth]
+mod-id = "20p2kirx"
+version = "yyZXHfQi"

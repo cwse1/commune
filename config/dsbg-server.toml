@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+["Config for -Detected setBlock be gone- Mod"]
+	#Should the "Detected setBlock in a far chunk" log messages be suppressed?
+	"Suppress spam" = true
+=======
+<<<<<<< HEAD
+["Config for -Detected setBlock be gone- Mod"]
+	#Should the "Detected setBlock in a far chunk" log messages be suppressed?
+	"Suppress spam" = true
+=======
+["Config for -Detected setBlock be gone- Mod"]
+	#Should the "Detected setBlock in a far chunk" log messages be suppressed?
+	"Suppress spam" = true
+>>>>>>> 535d858 (init)
+>>>>>>> 59f1721 (init)
