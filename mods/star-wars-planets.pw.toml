@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sgQirvDi/versions/wCH6gVb4/swplanets-fabric-1.20.1-1.4.5.jar"
-hash-format = "sha256"
-hash = "f1c25298892b28387f92e2a2a5a1cdb830880bd5bcf0522b1c2f0fc5fec291fb"
+hash-format = "sha512"
+hash = "0350e8f5c63375b6083330b70bfedea3d425da52c364189c08689100df9e3261d868e92c055d9769cbe10e5196c1c62e3a8e02fa6f0fbfd3464cfd4b52e01434"
 
 [update]
 [update.modrinth]

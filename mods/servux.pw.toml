@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/zQhsx8KF/versions/I7wfvH49/servux-fabric-1.20.0-0.1.0.jar"
-hash-format = "sha256"
-hash = "cd4b23b83dad40a70b3c7535addc76e166e9eaf82e1fb08b39e0f03ebce3d07d"
+hash-format = "sha512"
+hash = "973ab83979d994fa70eb2ebb285bc5feff8a51d1972f3533007dbad2bfb0fded62dc0dac5627a2ff557d07fe230faf1b931974b224cf2bcef31f5215606bb21f"
 
 [update]
 [update.modrinth]

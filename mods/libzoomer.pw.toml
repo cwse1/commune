@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/UuqHBjf9/versions/L0Z9ESDh/libzoomer-0.8.1%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "ab2625b89144989954aab8aa944b09e0cb08891a77c7ada61ef007fc782a3d23"
+hash-format = "sha512"
+hash = "39b97d6a124d0449118e314a396bc96288a3689a91a52950ef6a1ea9e55a30a93346482c84cc090b09eef3d7740af6791142aa3c13e35764c8d6b34fa949801a"
 
 [update]
 [update.modrinth]

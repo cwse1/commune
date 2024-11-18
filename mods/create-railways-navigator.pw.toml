@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Dq3STxps/versions/kOUp11TX/createrailwaysnavigator-fabric-1.20.1-0.6.0.jar"
-hash-format = "sha256"
-hash = "4a2da6084b9ffd51c9dab60f45f794d44d27038c2ac46f7d12ae5a43c47097d1"
+hash-format = "sha512"
+hash = "a8dbc870ee0952d30c2f95a43241be4a3f49e604518e707d95f01a55fdf45d6c323ec7a4d6621614834140a128a34387f13fe879e3f633d240429a672f70a656"
 
 [update]
 [update.modrinth]

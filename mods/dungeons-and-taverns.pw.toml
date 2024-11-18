@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/tpehi7ww/versions/d1sY0JqV/dungeons-and-taverns-3.0.3.f.jar"
-hash-format = "sha256"
-hash = "1da45baa734df73b1aa46f0b3f319b051c26507a911ec52bfcb1ccae6930e4f0"
+hash-format = "sha512"
+hash = "73d56095b131f37c01ffde9ff5b495534e2ae0896eeec737e325dbea43644bb440fff5e48088cbf8809b226f1157125658bb68172cd7d4ab0aaf2afa72848146"
 
 [update]
 [update.modrinth]

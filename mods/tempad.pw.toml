@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gKNwt7xu/versions/XWIpedqY/tempad-fabric-1.20.1-2.3.4.jar"
-hash-format = "sha256"
-hash = "629fb4e667048169c560fc5e604b0982994b0b5833d5c0a53ec2e4ec913b4032"
+hash-format = "sha512"
+hash = "2fd9ce9e211cf35a5cb83dbd070960e65b27da3ea256d150d0c15e63f55c46f6c3b42a2fb30adcf5f47c21d282a751261bcdfdb0911d6250f5bc46cfff792b17"
 
 [update]
 [update.modrinth]

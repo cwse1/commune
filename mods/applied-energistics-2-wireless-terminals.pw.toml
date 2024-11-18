@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pNabrMMw/versions/QewbGM3G/ae2wtlib-15.2.1-fabric.jar"
-hash-format = "sha256"
-hash = "89abf944c0edc5ad781e5c813aa9d29a41d5b7d6bb60b21e17fe2732a27a2c4a"
+hash-format = "sha512"
+hash = "aa1593f4466370daf2c4acbeea93dbb6249e9aaddaacc0383b0b016067ca47202398d89255812fa5758c56e873fbedb23595c1f05be01e9736f978a771332bca"
 
 [update]
 [update.modrinth]

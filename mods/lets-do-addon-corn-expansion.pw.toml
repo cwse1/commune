@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/20p2kirx/versions/yyZXHfQi/cornexpansion-fabric-1.0.1.jar"
-hash-format = "sha256"
-hash = "42a2bb9d41b85ce7d81b929ac811bdd631e06c46f01b33fa41a748d5a135f75a"
+hash-format = "sha512"
+hash = "bc5db467d0382f9a2d5dde9c68385ff0526daf08ef9a4c422acbccd150cd1863728d5295b41f4d4890f58f022400ef9712a665f883bb4fe9e63ef0d17400ad58"
 
 [update]
 [update.modrinth]

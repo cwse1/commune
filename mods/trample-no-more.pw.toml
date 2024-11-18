@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Bc9bwujS/versions/vtZZEyVM/TrampleNoMore-Fabric-1.20.1-13.0.3.jar"
-hash-format = "sha256"
-hash = "8e02d2f3e41bbaa778a9a054759917b634af3aa27139533b5d534492a2a1d2e4"
+hash-format = "sha512"
+hash = "b26c1a8d56e5b6101dee1724dc543ccd0564a4e4d7a29b9d68400d4ca09489fab3d1112138afb957f6a14ef2743a6ee2a6e65c06d2264aac556a50f594dbe4b1"
 
 [update]
 [update.modrinth]

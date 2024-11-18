@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lP9Yrr1E/versions/Z915LCkR/runes-0.9.13%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "fc715f7d782011cf3161075cc147c501fb8aa673f3e6da44ba298228de30493a"
+hash-format = "sha512"
+hash = "a4f4de8577788c52ce6264adc0d9f301040bad21c53e3c8a59b159b746bc5181a209250f6982af70830882a278914d98bc1d45f913291b8bed1946b3523aaabf"
 
 [update]
 [update.modrinth]

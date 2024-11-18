@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3JQDJrYW/versions/ovQwq79L/letsdo-furniture-fabric-1.0.3.jar"
-hash-format = "sha256"
-hash = "8a48fa5a87aeb91bdf2c4d4bc43e390ca233a598b3b005889417899c9d0ba40b"
+hash-format = "sha512"
+hash = "6007b4137fe48902a67d3c9ffee079f9e2982b095ea26f331e20002a7b740699fbe5aff751c6d2ac53b18a997867d1bdbf5656738e65c956502027c032c43329"
 
 [update]
 [update.modrinth]

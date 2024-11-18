@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/sAXEojQu/OkZoomer-Quilt-5.3.0.jar"
-hash-format = "sha256"
-hash = "a63bebfce82e69084148ed60ad532b3e54493f37136f14711164b5df07cd2b38"
+hash-format = "sha512"
+hash = "5baceb454a80696954fb5a7af9ebf0c27cfd462212e0f3a97f2a607022912f17e559a02e6c9fdedafa0917e8fdd7d97ad258d2bd30aba69094cd2f61f4875bc9"
 
 [update]
 [update.modrinth]

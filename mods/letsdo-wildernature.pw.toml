@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AAiRU4aQ/versions/NUbZiKpN/letsdo-wildernature-fabric-1.0.4.jar"
-hash-format = "sha256"
-hash = "edb96227a3929cacb8405457dfbe50f3661d558e16a4a5e4ddbd3a91a6903c36"
+hash-format = "sha512"
+hash = "b3bba4a5bbafc27d8b6af051269ae162ea941f554b48e01565c3a0c75205d79165a40a7574d082d40d0124a75b9793febbe8b6589171cdbd53324599e852d425"
 
 [update]
 [update.modrinth]

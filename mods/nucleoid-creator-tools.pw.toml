@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/HDocER98/versions/5yNE8dkj/nucleoid-creator-tools-0.2.2.jar"
-hash-format = "sha256"
-hash = "2aa614a74528e220cf38b7cc40239a24f5033755f86c01c64dda63782eb4be47"
+hash-format = "sha512"
+hash = "bac85d5a1f1f01b849b9bd687cead876752c77f7407e930b0c143ecdc33f6af1ad7af3ef3e8ca8c97c17fe8284164dd76e205e39fe014d5e3396a5ae8550a0b4"
 
 [update]
 [update.modrinth]

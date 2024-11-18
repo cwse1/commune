@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qwbArkQk/versions/benCZTIU/letsdo-candlelight-fabric-2.0.2.jar"
-hash-format = "sha256"
-hash = "5a9ece94add2098301f30272ce783cf4b14683ff4049f90a65faa91819137ebf"
+hash-format = "sha512"
+hash = "4799e2f1e2bf4062bfc59dafaa7a636bf4f20e438aa61ba1434549b3fb65d97a52967a7f9078ab3af1e26e855b2f4ea7534579f909537eea2c76d72662c60872"
 
 [update]
 [update.modrinth]

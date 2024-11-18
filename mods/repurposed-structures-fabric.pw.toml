@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/muf0XoRe/versions/k5hMtMM5/repurposed_structures-7.1.15%2B1.20.1-quilt.jar"
-hash-format = "sha256"
-hash = "0d6386b2e045b3b140d3613883fbfb63d963185e9da3fd6a91bd07944fbe960a"
+hash-format = "sha512"
+hash = "e0eb3b062e5ce56c533f6bb30bb55dfae051ab10b1da59b03f221d54a9e11e0feed13c3c04216983db1920d50f2c8c87b381a04fae6a5aa70f818c391b942db3"
 
 [update]
 [update.modrinth]

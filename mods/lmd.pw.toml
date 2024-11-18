@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/vE2FN5qn/versions/AqczUIGA/letmedespawn-fabric-1.3.2c.jar"
-hash-format = "sha256"
-hash = "bdf304b4ec7e331a63c7101842dd72e27c6dbe1134c263bc30ad6be24be1bbe3"
+hash-format = "sha512"
+hash = "1dba074249c0ca0b02a593148b7c8a8569682b3e687606d800a388181cd185504132352d515bbc7de71c573f0b22e773d23c8dce5bf187bf77b2a91ebd1a52d5"
 
 [update]
 [update.modrinth]

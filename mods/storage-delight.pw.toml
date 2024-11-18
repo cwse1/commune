@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/LlkAI45V/storagedelight-24.09.11-1.20-fabric.jar"
-hash-format = "sha256"
-hash = "b250c2178345fdc4b58b68917af26e73639c4fc3c1bcfa6d54f4878a47b4bd5f"
+hash-format = "sha512"
+hash = "91df19af0fd2fa43cb48c4f062c92cfdd279d9501edd561c2ec3e2c9d086cb03a7c0b96c1a9d7a4c164b164fb030b5127dc7b756c4b9e113b728087510d98723"
 
 [update]
 [update.modrinth]

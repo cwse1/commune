@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gHkzYDn7/versions/Pw1MWIuM/piercingpaxels-1.0.12.jar"
-hash-format = "sha256"
-hash = "569b9774e2396e1db74ac8583fc2af02e7d575707abc58aeadd382be7d2684cf"
+hash-format = "sha512"
+hash = "5647fd3a6820e636a68ba60d8ba9f29b3fe59b50248b5f74a6bdf378fd2598b1191e5a32fa22d92bbacf4bbe96689b3cf43c24dfbb855c902feb9519a5dedc3e"
 
 [update]
 [update.modrinth]

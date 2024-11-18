@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/rYocd2LE/versions/BBsnGqrp/dungeons-and-taverns-stronghold-rework-1.jar"
-hash-format = "sha256"
-hash = "d9aab87341c8579b9621dc41230385679e249cfa99d04ae0e0ec27ec15174467"
+hash-format = "sha512"
+hash = "cde7bf36990a5865bd24f705bf60484e38a51dc03f1b252cb59b60c48c358d4510b6b2ff7d34605a2691ffd086e8549212a5058fc359e39b66e9e9f2b35a422b"
 
 [update]
 [update.modrinth]

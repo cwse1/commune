@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/xGdtZczs/versions/UB9Kcuk5/polymer-bundled-0.5.20%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "2e0a9781922beab01d8995eae8ed03c4829403345ea169a56a0d7c3a6887c622"
+hash-format = "sha512"
+hash = "c8f55c99f592ad895a788300c926535062c106625a36adf9cc363b4ba3a25925fe1a51c7b058bb2246ff40233d3f914479361a64b6aab58e9158229f7f3504bc"
 
 [update]
 [update.modrinth]

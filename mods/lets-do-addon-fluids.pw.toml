@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PGVF51co/versions/VyBqXrqd/doaddonfluids-fabric-1.3.0.jar"
-hash-format = "sha256"
-hash = "b5e203854874bf9c8091279db56e500dd9ebf96b9981bb1f17307f8dbbbec9b3"
+hash-format = "sha512"
+hash = "00a63acdf1905add28b3314277fdfbbac8315cf7783e3bebf015ba659ae3749d9852c687accb6ef0fc85d024ac473e104a5485c3c68f2adda83da55bae335f90"
 
 [update]
 [update.modrinth]

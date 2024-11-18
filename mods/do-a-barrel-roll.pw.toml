@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/CuLlUIYD/do_a_barrel_roll-fabric-3.6.1%2B1.20.1.jar"
-hash-format = "sha256"
-hash = "c9c337ab040331814e093392f05f93be10f0fe5846fe59649dd718e714c8e155"
+hash-format = "sha512"
+hash = "e2294aeb8589c5a0c7508a0b5ac575bc47f05fbf85db50c985f5165f9ee29292a0f8ee8d548083b151af0a9c843e4ec68d6ca8f1861c91f6b9446269190bf662"
 
 [update]
 [update.modrinth]

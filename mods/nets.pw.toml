@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Rb85AqQT/versions/34ELChF7/NETS_0.3.5.5.jar"
-hash-format = "sha256"
-hash = "cac028e4deed660b7cc79f7b3c04ee700c82b226999a5d76c6f7e66427ff6696"
+hash-format = "sha512"
+hash = "a7b14c86f1ad85d71cfbcd2a26d27a683f6dcccd25f296b9f2577f6163c2e1deb5b37ef805b1a355e1dd5e1df6f1d30d1832ccb2dacbc8bdefa1ca860b1eb6bd"
 
 [update]
 [update.modrinth]

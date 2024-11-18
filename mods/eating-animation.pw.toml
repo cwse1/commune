@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/AqXSvu6M/eating-animation-1.20%2B1.9.61.jar"
-hash-format = "sha256"
-hash = "ff8fe184b3104b94c9e10e751f5730d3b1fec19894179743a2447367cb752463"
+hash-format = "sha512"
+hash = "7470cd63b49cd797a21b30fefe11bd53e419ca8ed0eb01f498b801e83222685bbe853e7323f2e310874a3619628fece48ec69ea53cd391dd97a139c64225d077"
 
 [update]
 [update.modrinth]

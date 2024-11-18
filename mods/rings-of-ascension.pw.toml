@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IxxES3Kk/versions/Jz5Uw4YZ/RingsOfAscension-1.20.1-2.0.2.jar"
-hash-format = "sha256"
-hash = "040870ae5f8d047aaa6bde5b8dcf72b5d32dee5f5d2baa574aa363a76c317cd3"
+hash-format = "sha512"
+hash = "cbea0ef66f445bc5dca6a04b942b39456c58c2f034132f39b251aaa740af898bb2246ef8685c68fcccd1627fc7b3548928963ff849deb135a44032c78ccffb8b"
 
 [update]
 [update.modrinth]

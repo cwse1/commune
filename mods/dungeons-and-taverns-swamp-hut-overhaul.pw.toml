@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/nWSeFpQt/versions/RHfivqup/dungeons-and-taverns-swamp-hut-rework-1.jar"
-hash-format = "sha256"
-hash = "14e06a09103f714ab395df5da710530af7b19e3fbed1dc75830c45b2b2a3fad6"
+hash-format = "sha512"
+hash = "cd64e015787dce37379c8a29a4aa404db255eeb5e59b546b136efaa844790057c2f45884a3aa953607d3fad85af9690c0445b9f6f9cad191403fdacef033ce50"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Nv2fQJo5/versions/2VRL4210/replaymod-1.20.1-2.6.20.jar"
-hash-format = "sha256"
-hash = "918eee417b2c62763ad11ee9ab105715b7abcc92d099e2ef35c338286b7c4f84"
+hash-format = "sha512"
+hash = "085dc4e5312804a02c8fee4c21278888f4c96c38325f421c676e51de198221278646ff25b2f4353a4f58919b66aedef075768463b9b90e97f4aa324576647233"
 
 [update]
 [update.modrinth]

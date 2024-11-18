@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/7I1fu1km/versions/Guh1iTyK/kubejsoffline-4.0.2.jar"
-hash-format = "sha256"
-hash = "6128c1656f24f8e5eb2e8ad4ac9f42d837928ed173bbc0afb4ad15586f3c6be7"
+hash-format = "sha512"
+hash = "caa766c264493afcae0b1b961b2f277bf06eeb77c43304d6e582507afab718cc00a9a5959686289197ceed6926688b31a86b616fad0d44451f57af7c43f20715"
 
 [update]
 [update.modrinth]

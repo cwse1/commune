@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HhIJW8n1/versions/zMRp7AEJ/Estrogen-4.3.0%2B1.20.1-fabric.jar"
-hash-format = "sha256"
-hash = "af3e30f2b58b8c4aee16e4d23c277e05f2f20f7666498afb4b0d255768c18587"
+hash-format = "sha512"
+hash = "b9674ea07f694bd512b6bc4314e49361328405e9d779940263bad413a2cc16bf39a7b8e0c6b339094f3d4941827b6aba4e66cae963736968ce3505a0a83cd78a"
 
 [update]
 [update.modrinth]

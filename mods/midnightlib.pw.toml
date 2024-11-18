@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/codAaoxh/versions/3YykTkmJ/midnightlib-quilt-1.4.1.1.jar"
-hash-format = "sha256"
-hash = "be075e2d5cee6a94b6775ed8d857e33657646aec272c45437022b7a3c4b19d63"
+hash-format = "sha512"
+hash = "6aa2f8fa40f190cdb4b19468d40d0ac40ec8275abca937a4d3a684dfeeeecc4f45f62b89de0a2c80ebd9f25617d8b082599dca24b8a0c8ba687ce3b35f366e58"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/znHQQtuU/versions/zst5fZig/moredelight-24.09.27-1.20-fabric.jar"
-hash-format = "sha256"
-hash = "79672fccf028efa7d39bf03c593a8aa64bd4be3d37fa1c27d374cf8b620f93b5"
+hash-format = "sha512"
+hash = "6dd3d1e4d3cbae334d98f409f25fa4903b079955a26b971e0b89092de509ba08bcf9d9d14a9599aed83aec4f382e6393bb025ef700e6fdbc32985840a2d72928"
 
 [update]
 [update.modrinth]
