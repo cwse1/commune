@@ -1,12 +1,4 @@
 plans/
 tmp/
 *.mrpack
-<<<<<<< HEAD
 quilt*.jar
-=======
-<<<<<<< HEAD
-quilt*.jar
-=======
-configbak/
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
