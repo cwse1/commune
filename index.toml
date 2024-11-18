@@ -2344,7 +2344,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "960ce5c16dfe9a91d98ecbb34b94ba0a9543cd2f1ce5265345ab187fe5aee6eb"
+hash = "0743031d2dbaebdf7e3c18cd1ef493a40c8b48ce534342f48e4764c49ad9ff4f"
 metafile = true
 
 [[files]]
@@ -2493,7 +2493,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "d30d84ff3ac39c424d4cb308ab71ad9425578fe7e558b4acb746be11c782adef"
+hash = "6ec1787d0fc9247eefa406a8b60688de61a00e8369affd80204e9eb26b190202"
 metafile = true
 
 [[files]]
@@ -2508,7 +2508,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "35b259f09509a88274d3870a3af48b12ad7020db75acc086c74c02d48a0b5641"
+hash = "48d7796c1cd92329b3be7a2720d57a48d22c07434d3a3be34ab412bb8618a4c5"
 metafile = true
 
 [[files]]
@@ -2808,12 +2808,12 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "a989bcd79a02c91b1e25d39d009a4d21b8880286c45598de69a583cf2f2852bf"
+hash = "4b1e6a59f0e1692f0608f1291dfcd5ed3ad86d263e81e5340ebd436838ec17bf"
 metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "5bd89b5645587973f9b2f3938e48adcb7dec20923fa2d4029130d87d75679a08"
+hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
 metafile = true
 
 [[files]]
@@ -2853,7 +2853,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "dcd72a1e53466d29ba67abc4a3e1ac3568e842f7a42c8c1d8f465854ec80839c"
+hash = "2c6553f67c0d60f62afbcdd6c8fd8c48b803fc9bd2e280f3aeefa078414805d6"
 metafile = true
 
 [[files]]
@@ -3123,7 +3123,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "5926f177ab5ec07d465596ce7bcdb187259911d2bb515f106211db860a98d35a"
+hash = "4f61d4a498c02c3fbdacf5d69bf4f08533ec33857138ac92d77ced97da2daa3f"
 metafile = true
 
 [[files]]
@@ -3198,7 +3198,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "a7ec58ffeac6be2bf4ca02de0f864754f0e625c25da883d54ef90b88028aae05"
+hash = "974fc9a82d211049b57b4d9dd0b7bb2e203d5a9b88d20a3f8ce2c3a16ee4426b"
 metafile = true
 
 [[files]]
@@ -3293,7 +3293,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "49d232e3f53f2874eb8eb7a1568cfe21f135051f8ef7b448512291005cf4aec8"
+hash = "0712173e506621aa6bb7ebca682648540586f47b566c2dbc4da0d2cb63e5d52f"
 metafile = true
 
 [[files]]
@@ -3343,7 +3343,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1b5d5e967a503315e4cba0a6e1c040585de87d25cc3bee86fd67207aea01a689"
+hash = "5e67e96ab4d6c876dc26256b8025ab517d1f11e5b3909e194a7d9ce2826d7568"
 metafile = true
 
 [[files]]
@@ -3403,7 +3403,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "2bb8c0a3472d4360a19b1799c9cd017a9ba40b70b83714aac17397228a977404"
+hash = "5c3818e1257c9f866e0eaeda3f4a84be60efe74a1c865ecd5e0e2b189481e948"
 metafile = true
 
 [[files]]
