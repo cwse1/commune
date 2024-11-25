@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 59f1721 (init)
 #IMPORTANT NOTICE:
 #You can add more entries using KubeJS
 #https://github.com/tom5454/Create-Ore-Excavation#kubejs
@@ -23,9 +19,6 @@ veinFinderFar = 25
 #Vein Finder use cooldown in ticks
 #Range: 10 ~ 1000
 veinFinderCd = 20
-<<<<<<< HEAD
-=======
-=======
 #IMPORTANT NOTICE:
 #You can add more entries using KubeJS
 #https://github.com/tom5454/Create-Ore-Excavation#kubejs

@@ -4,10 +4,6 @@
   "getBufferDelay": 75,
   "maxAudibleDistance": 10,
   "mobInstrumentFactors": {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 59f1721 (init)
     "minecraft:piglin": 0.0,
     "minecraft:zombified_piglin": 0.0,
     "minecraft:wither_skeleton": 0.01,
@@ -16,29 +12,8 @@
     "minecraft:piglin_brute": 0.0,
     "minecraft:zombie": 0.0,
     "minecraft:husk": 0.0
-<<<<<<< HEAD
-=======
-=======
-    "minecraft:piglin": 0.00,
-    "minecraft:zombified_piglin": 0.00,
-    "minecraft:wither_skeleton": 0.01,
-    "minecraft:skeleton": 0.01,
-    "minecraft:pillager": 0.00,
-    "minecraft:piglin_brute": 0.00,
-    "minecraft:zombie": 0.00,
-    "minecraft:husk": 0.00
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
   },
   "forceMobsToPickUp": true,
   "clickedHelp": false,
   "version": 1
-<<<<<<< HEAD
 }
-=======
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)

@@ -5,116 +5,49 @@
 	#Enable chest feature rendering
 	chestFeatureRendering = true
 	#.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 59f1721 (init)
 	#Enable chest feature physics rendering
 	chestPhysicsRendering = true
 	#.
 	#Enable chest feature armor rendering
 	chestArmorRendering = true
-<<<<<<< HEAD
-=======
-=======
-	#Enable chest feature armor rendering
-	chestArmorRendering = true
-	#.
-	#Enable chest feature physics rendering
-	chestPhysicsRendering = true
-
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 #.
 #Settings for the chest feature (for the local player)
 [chestEstrogen]
 	#.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 59f1721 (init)
 	#Enable chest feature physics
 	chestPhysics = true
 	#.
-	#Enable chest feature
-	chestFeature = true
-	#.
-<<<<<<< HEAD
-=======
-=======
 	#Enable chest feature
 	chestFeature = true
 	#.
 	#Enable chest feature armor
 	chestArmor = true
 	#.
-	#Enable chest feature physics
-	chestPhysics = true
-	#.
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 	#Chest feature bounciness
 	#Range: 0.0 ~ 1.0
 	chestBounciness = 0.27000001072883606
 	#.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 59f1721 (init)
-	#Enable chest feature armor
-	chestArmor = true
-	#.
 	#Chest feature physics damping
 	#Range: 0.0 ~ 1.0
 	chestDamping = 0.375
-<<<<<<< HEAD
-=======
-=======
-	#Chest feature physics damping
-	#Range: 0.0 ~ 1.0
-	chestDamping = 0.375
-
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 #.
 #UI element Configuration
 [ui]
 	#.
 	#Enable dash overlay
 	dashOverlay = true
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 #.
 #Miscellaneous settings
 [misc]
 	#.
 	#Allows you to pat entities by shift right-clicking them!
-	entityPatting = true
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
+	entityPatting = false 
 #.
 #Settings for Equippable Items
 [accessory]
 	#.
 	#Render estrogen patches on the player
 	estrogenPatchRender = true
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 #.
 #Compatibility between other mods settings
 [compat]
@@ -124,13 +57,6 @@
 	#.
 	#Enable figura Compatibility
 	figura = true
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 #.
 #Settings for custom sounds and music
 [sounds]

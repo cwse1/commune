@@ -1,19 +1,7 @@
 [overlay]
-<<<<<<< HEAD
 	#Range: 0.0 ~ 1.7976931348623157E308
 	scale = 1.0
 	enabled = true
-=======
-<<<<<<< HEAD
-	#Range: 0.0 ~ 1.7976931348623157E308
-	scale = 1.0
-	enabled = true
-=======
-	enabled = true
-	#Range: 0.0 ~ 1.7976931348623157E308
-	scale = 1.0
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 
 	[overlay.position]
 		#Use negative values to position relative to the right/bottom of the screen
@@ -21,12 +9,5 @@
 		x = 6
 		#Range: > -2147483648
 		y = 6
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 [effects]
 	seasonal = true
