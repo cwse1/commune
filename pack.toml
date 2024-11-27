@@ -14,4 +14,3 @@ quilt = "0.26.4"
 
 [options]
 acceptable-game-versions = []
-datapack-folder = "datapacks"
