@@ -15,7 +15,7 @@ ServerEvents.commandRegistry(event => {
       .requires(src => src.hasPermission(1))
       .executes(c => {
         let i = 0;
-        Utils.server.runCommand("scale set pehkui:base 0.25 @a");
+        Utils.server.runCommand("scale set pehkui:base 0.25 @p");
         return i;
       })
   )
