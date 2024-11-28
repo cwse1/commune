@@ -6,7 +6,7 @@ ServerEvents.commandRegistry(event => {
       .executes(c => {
         let i = 0;
         Utils.server.runCommand("/player TheLibrary spawn");
-        i++;
+        Utils.server.runCommand("/tp TheLibrary 0 72 0");
         return i;
       })
   );
