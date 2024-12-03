@@ -1251,7 +1251,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "a940269d83e13c7d68fbbad4be8122704ae317e3d794553406f1bee9560509b7"
+hash = "bc8af5d5d2aae78e4df7bad058686b7aa357bc227ac6a6126df94d5592bae165"
 metafile = true
 
 [[files]]
@@ -1276,7 +1276,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "e8b1c09912f9bb477bbaf0b1b970d0d47e941c59977be1f86f676a31b1bf9a21"
+hash = "f93b058ddd383738bb83cf93623f462ae7c40b0618fbe8fd37a221fe35cb93a8"
 metafile = true
 
 [[files]]
@@ -1461,7 +1461,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "bb2bb541b9a8dabf1fe8e509adb2fb501ecf484f23e63812631debc0fb96187e"
+hash = "67e0f015401522db81a770f185ec242dab37caa65afa1cd8fd25a48ce5285d46"
 metafile = true
 
 [[files]]
