@@ -1,13 +1,13 @@
 name = "Polymorph"
-filename = "polymorph-quilt-0.49.7+1.20.1.jar"
+filename = "polymorph-quilt-0.49.8+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/SvfFwFgC/polymorph-quilt-0.49.7%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/iFhttk9P/polymorph-quilt-0.49.8%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "57c72c30514121baa3159da5d3bcb27fcab11163c13ba4fb736b27af3ba6740257060eee0e7b4ed56863bb372282024476b6430204e109f45639818d39fc81d6"
+hash = "516c7b20cc56a8fe1b8ffd0662f9c9ce9c91d15f5ff37ace044580c6754a0deb9139c7c8d51975ed44a87ee13dcdf1bb0113efe5d442f302dff327750ebe3ff2"
 
 [update]
 [update.modrinth]
 mod-id = "tagwiZkJ"
-version = "SvfFwFgC"
+version = "iFhttk9P"
