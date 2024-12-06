@@ -2146,7 +2146,7 @@ metafile = true
 
 [[files]]
 file = "server.properties"
-hash = "aee2a5d6a4d75db0642575073c6234118dbd76e1b280675ec5efbb8b9fc0af52"
+hash = "91efc1c46a89caae4e8bdf9573bd1db98a385e03216ce9d2ba3161e148c418e8"
 
 [[files]]
 file = "start.sh"
