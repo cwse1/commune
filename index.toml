@@ -946,7 +946,7 @@ hash = "8e8efffcca5b9f2dca2a2b8499bdafc969cdb6f8172348143cd27a6c3a21b6b3"
 
 [[files]]
 file = "kubejs/server_scripts/commands.js"
-hash = "1ca92cfe1a700a414cbf7cc56c70494106cdd486ea773b88cbc5bda029093c9a"
+hash = "8a2f99d8bd890f8a4533a4ba1be525fe94c8c453c96c3708906aaff7d35bd499"
 
 [[files]]
 file = "kubejs/server_scripts/disabled_recipes.js"
@@ -973,6 +973,11 @@ metafile = true
 [[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "0743031d2dbaebdf7e3c18cd1ef493a40c8b48ce534342f48e4764c49ad9ff4f"
+metafile = true
+
+[[files]]
+file = "mods/ad_extendra-continuation.pw.toml"
+hash = "3ab47fed1353708bb23788fa8164e5e4439c50c861edd470113ad717d36f827f"
 metafile = true
 
 [[files]]
@@ -1421,7 +1426,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f8a4d471df41f633cdf26f291cf0627e6b661026bc488093ffe1d515d8494202"
+hash = "c3bf7d6d25260b023f8cd2906527bf2ddfe36eb7929894ac0ae6d61abe2328cd"
 metafile = true
 
 [[files]]
@@ -1605,11 +1610,6 @@ hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-addon-apple-wood.pw.toml"
-hash = "a0666e5192d7db6ec32be84c632c020b8a3b9612d1d77567422c4777325273b2"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-addon-compat.pw.toml"
 hash = "a816f80d3ddb9233c17da83c0473ea23a0eef495f5f62fd076c07fd7aed71993"
 metafile = true
@@ -1756,7 +1756,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "103caf4674b7e6dd8cd189c88bc2a261d135a073a4ebec132316fc14662bb7bc"
+hash = "9a629ad1013e2ac5e2e96744ddd257607b084bbc33a0e434e6c0feab48814642"
 metafile = true
 
 [[files]]
@@ -2016,7 +2016,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "74cf81cd71073f5e4a31ceded3dc5c6220d80bcc25e15f371738b9d720c5a30c"
+hash = "3f46e3aeb46331bd999c099da6b07a5d161ccbd791b6f8317feaa3a8a4275d45"
 metafile = true
 
 [[files]]
@@ -2160,4 +2160,4 @@ hash = "c3a79ed16661b0e1ceaa492e5b892220d5fb20f6d6f4f0fba1e12ce5d8ef20e3"
 
 [[files]]
 file = "start.sh"
-hash = "5b9c9dde162aa97fc246a7f958859998007ab6fefbeacaf7e840bc86446212a0"
+hash = "335d677163f3d8439ade0df973464ebfc15794484e04a42d6cdcec44596da554"

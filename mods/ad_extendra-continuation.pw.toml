@@ -1,0 +1,13 @@
+name = "Dandi2k8's Ad Extendra"
+filename = "ad_extendra-fabric-1.20.1-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gITClFhp/versions/mJXu0qEb/ad_extendra-fabric-1.20.1-1.1.2.jar"
+hash-format = "sha512"
+hash = "5b7295002ab41f9aa1ca5da3126bb599eb7110c58525c4be1d822abf0513e09a3a7d9047471a67a8b9511268e348c70607a9cc706d35ed55c1dfae7d2ed90f95"
+
+[update]
+[update.modrinth]
+mod-id = "gITClFhp"
+version = "mJXu0qEb"

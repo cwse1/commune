@@ -12,7 +12,7 @@ ServerEvents.commandRegistry(event => {
   );
   event.register(
     Commands.literal("shrink")
-      .requires(src => src.hasPermission(1))
+      .requires(src => src.hasPermission(2))
       .executes(c => {
         let i = 0;
         Utils.server.runCommand("scale set pehkui:base 0.25 @p");
@@ -21,7 +21,7 @@ ServerEvents.commandRegistry(event => {
   ); 
   event.register(
     Commands.literal("grow")
-      .requires(src => src.hasPermission(1))
+      .requires(src => src.hasPermission(2))
       .executes(c => {
         let i = 0;
         Utils.server.runCommand("scale set pehkui:base 1 @p");
