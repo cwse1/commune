@@ -2,3 +2,4 @@ plans/
 tmp/
 *.mrpack
 quilt*.jar
+devscripts/
