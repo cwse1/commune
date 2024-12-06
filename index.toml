@@ -1015,6 +1015,11 @@ hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
 
 [[files]]
+file = "mods/applied-botanics.pw.toml"
+hash = "07c8c9cbbe6946bd4f8f42c1c2f3a06c5301edde7eb78778fb489cf4b62e48ee"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "f53692469637eda8ca8e113738fc02e4a08a2093781da80c96c8fdf0671b65b2"
 metafile = true
@@ -1877,6 +1882,11 @@ metafile = true
 [[files]]
 file = "mods/powah.pw.toml"
 hash = "5a57a2f55dd01cbfd7a22419d3ce39db05cc15b0af2e23c6d292d4d5dbe5448a"
+metafile = true
+
+[[files]]
+file = "mods/powerae2cc.pw.toml"
+hash = "39e6d9f6184a8a67afecf805e370b3a377fc45bf6b9d89903c846188aa9e5e4a"
 metafile = true
 
 [[files]]

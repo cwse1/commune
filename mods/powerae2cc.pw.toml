@@ -1,0 +1,13 @@
+name = "PowerAE2CC Bridge"
+filename = "PowerAE2CCBridge-1.1.0.0-1.20.1-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ooC9pr8V/versions/8BZs3EKD/PowerAE2CCBridge-1.1.0.0-1.20.1-FABRIC.jar"
+hash-format = "sha512"
+hash = "6e062efd687a2bd6d288b8d35a32f6d29b124330cb7e4f1d264564cfb15542b2cb524deb03919f04c960384d18852dc4d2eadf8a201f9867ac228d0fda050ed5"
+
+[update]
+[update.modrinth]
+mod-id = "ooC9pr8V"
+version = "8BZs3EKD"
