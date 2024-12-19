@@ -8,15 +8,7 @@
 	// Does camera should rotate freely during elytra flight
 	"freeCameraDuringElytraFlight": false,
 	// Completely remove third-person front view
-<<<<<<< HEAD
 	"skipThirdPersonFrontView": false,
-=======
-<<<<<<< HEAD
-	"skipThirdPersonFrontView": false,
-=======
-	"skipThirdPersonFrontView": true,
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 	// How fast player changes movement direction in third-person
 	"playerRotationSpeed": 50,
 	// How fast player pitch follows camera pitch in third-person

@@ -42,13 +42,7 @@
 			#.
 			#Spawn steam on an interval
 			spawnSteam = false
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
 
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 		#.
 		#Old-style Smoke Settings
 		[client.smoke.old]
@@ -68,13 +62,7 @@
 			#Smoke texture quality
 			#Allowed Values: LOW, MEDIUM, HIGH, ULTRA
 			smokeQuality = "HIGH"
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
 
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 	#.
 	#Journeymap Settings
 	[client.journeymap]

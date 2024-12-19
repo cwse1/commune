@@ -14,7 +14,7 @@
 	#.
 	#Higher density means more spawned particles.
 	#Range: 0.0 ~ 1.0
-	fanParticleDensity = 0.5
+	fanParticleDensity = 0.2
 	#.
 	#The maximum amount of blocks for which to try and calculate dynamic contraption lighting. Decrease if large contraption cause too much lag
 	#Range: > 0
@@ -73,13 +73,6 @@
 		#The vision range though chocolate will be multiplied by this factor
 		#Range: 0.125 ~ 256.0
 		chocolate = 1.0
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 	#.
 	#Sound settings
 	[client.sound]
@@ -90,13 +83,6 @@
 		#Maximum volume modifier of Ambient noise
 		#Range: 0.0 ~ 1.0
 		ambientVolumeCap = 0.10000000149011612
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 	#.
 	#Ponder settings
 	[client.ponder]
@@ -106,13 +92,6 @@
 		#.
 		#Slow down a ponder scene whenever there is text on screen.
 		comfyReading = false
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 	#.
 	#Railway related settings
 	[client.trains]
@@ -126,13 +105,6 @@
 		#.
 		#Display nodes and edges of a Railway Network while f3 debug mode is active
 		showTrackGraphOnF3 = false
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 	#.
 	#Settings for the Goggle Overlay
 	[client.goggleOverlay]
@@ -165,13 +137,6 @@
 		#[@cui:IntDisplay:#]
 		#Range: > -2147483648
 		customBorderBotOverlay = 1344798847
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
 	#.
 	#Settings for the Placement Assist
 	[client.placementAssist]

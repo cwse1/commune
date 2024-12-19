@@ -14,24 +14,8 @@
   //  
   "disabled": [
     "minecraft:bat",
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 59f1721 (init)
-    "vinery:mule",
-    "terraform:boat",
-    "terraform:chest_boat"
-  ],
-  // Don't touch this!
-  "CONFIG_VERSION": 1
-}
-<<<<<<< HEAD
-=======
-=======
     "vinery:mule"
   ],
   // Don't touch this!
   "CONFIG_VERSION": 1
 }
->>>>>>> 535d858 (init)
->>>>>>> 59f1721 (init)
