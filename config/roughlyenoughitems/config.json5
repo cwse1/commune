@@ -91,7 +91,7 @@
 		"leftSideMobEffects": true,
 		// Declares whether subsets is enabled.
 		"isSubsetsEnabled": false,
-		"allowInventoryHighlighting": true,
+		"allowInventoryHighlighting": false,
 		"inventoryHighlightingDarkenOpacity": 0.85,
 		"inventoryHighlightingOpacity": 1.0,
 		"itemCheatingMode": "REI_LIKE"
@@ -160,7 +160,9 @@
 			"cachingFastEntryRendering": true,
 			"cachingDisplayLookup": true,
 			"categorySettings": {
-				"filteringQuickCraftCategories": { },
+				"filteringQuickCraftCategories": {
+          "minecraft:plugins.tag": true
+        },
 				"categoryOrdering": [
 					"minecraft:plugins/crafting",
 					"minecraft:plugins/smelting",

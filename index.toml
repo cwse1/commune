@@ -74,7 +74,7 @@ hash = "b3007a15058a1d6cfd4c051894efc586624af422d3b037913ca9c914002a07d7"
 
 [[files]]
 file = "config/blockmeter.toml"
-hash = "e10bb1c2a53c00119f90705623a37896ae463e2648459b06d43125d34881b907"
+hash = "6e8551d7fd623ab6638bb1aa8f25342b7c34851b80bb46defd429905be4cb066"
 
 [[files]]
 file = "config/bloomingnature.json"
@@ -142,7 +142,7 @@ hash = "89a8d80befc9f4fdc1cb3a89ff80e1b77ca077ea487007536f0f7ff0d7c08aea"
 
 [[files]]
 file = "config/chunkyborder/borders.json"
-hash = "749b433d73f2d770e628768f80d7c5ba2809ad51306504946e312998c8a03a0a"
+hash = "6824b76a5d619e5ee84ec9e31330a4cfb52359831ede3c826c8b7eb6fe5f5b7c"
 
 [[files]]
 file = "config/chunkyborder/config.json"
@@ -433,14 +433,6 @@ file = "config/minihud.json"
 hash = "b55f90378a16ca741d2adc1e64612bdf8249b025c637ddb13ddcc0ba0ea9755c"
 
 [[files]]
-file = "config/minihud/new_world.json"
-hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
-
-[[files]]
-file = "config/minihud/new_world_dim_minecraft_overworld.json"
-hash = "acea697487d540af924e3dede78c48ed066430e94ae487efd2c6ca2ea84256ec"
-
-[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "e0447c364091dfdddf8595edd14ed2d790be94deed6ec9f580d7191e3679c334"
 
@@ -582,7 +574,7 @@ hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "b4080fef086dc9d573ebb6a0b0303b056d3f5ac36fe39efea1ec5169d7bc72b3"
+hash = "c94ef7e24be5a28874251d6added3e5d6d2a31fe41efeea9972876b72c5d9f56"
 
 [[files]]
 file = "config/roughlyenoughitems/favorites.json5"
@@ -757,26 +749,6 @@ file = "config/visualworkbench-client.toml"
 hash = "e3f57877de9103873150d83aa50e5d4bbefb7febd109f01622db673ea8013bb5"
 
 [[files]]
-file = "config/voicechat/translations.properties"
-hash = "8aaf62e64c9d449660c4ad8ff0bed8e4a1c24d7b0bda5adda4aa1c19fa4ec45c"
-
-[[files]]
-file = "config/voicechat/username-cache.json"
-hash = "4bcdfdcfe73cc7cc4d9cc81c3ea66d6876d39e2929dae21aca5104d0e48bfe07"
-
-[[files]]
-file = "config/voicechat/voicechat-client.properties"
-hash = "ccb6fbf644dd63f036a9edf099d48470270a3149c6c23114215b56d689e378d2"
-
-[[files]]
-file = "config/voicechat/voicechat-server.properties"
-hash = "7cecbe6e43fd68321050601f19871147f3d55b07fb374e4691d0818c2b221746"
-
-[[files]]
-file = "config/voicechat/voicechat-volumes.properties"
-hash = "33afebdb8ef07a3d774086931dec8d899f4da7aeba5b448fd4eee540ba5e02a2"
-
-[[files]]
 file = "config/waila/blacklist.json5"
 hash = "582f7e30fd40975d418c3a5ae553b753712a2bbbbd3d76d4534262430e0d131e"
 
@@ -881,12 +853,16 @@ file = "kubejs/assets/powah/textures/entity/drill/uraninite_raw.png"
 hash = "f1b7b2531f73c136f5deabe8ed861a40a42ad6bffb2c59b45d5a76024c976d74"
 
 [[files]]
+file = "kubejs/client_scripts/rei_collapse.js"
+hash = "40f20644cef4113c35b4af1687b265093d6575caa96ba67dbf1c1f9f05a57d97"
+
+[[files]]
 file = "kubejs/config/common.properties"
 hash = "7f8016a7ecd9ac6c3ad45195a4b20d9aff10c5140aec73f5087525913d98c37f"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "b912827d6139dee5b610d64ab162f163f06a48d5030b0db49f102a32e83bc97f"
+hash = "a87facdfa6bfcee51a84f6669b0f51a1463b0da4768acfb015752bb4a818b27c"
 
 [[files]]
 file = "kubejs/data/custom nether portals v2.3.9 (MC 1.20-1.20.4).zip"
@@ -929,8 +905,36 @@ file = "kubejs/server_scripts/load.js"
 hash = "c1243e94cb48d1c4c9ba723fa3369c20348f9c9d0412f67ff50b394266171762"
 
 [[files]]
+file = "kubejs/server_scripts/tags_building.js"
+hash = "1beab093618659023993d85d8f91b18e4d0187dbbe692c30ddb8517449581d8f"
+
+[[files]]
+file = "kubejs/server_scripts/tags_engineering.js"
+hash = "00fdcd029d39272f6c0530335ccf6164c2981f6966ecf493992cd5ad5d038224"
+
+[[files]]
+file = "kubejs/server_scripts/tags_fauna_products.js"
+hash = "732a149b65d6e2c92ac0c610f11a24ae997a76749f8bdb8aae1bf37d748fcbe9"
+
+[[files]]
+file = "kubejs/server_scripts/tags_flora.js"
+hash = "6a69d3e1463f456dc94345f0dee4bd4eae03c6f7e60acb19a9568c6a83ce6539"
+
+[[files]]
+file = "kubejs/server_scripts/tags_materials.js"
+hash = "74e478a315d86689dce50dec462d9e4cafe7ca0a0f25e2ab5268bdf1fdfca10d"
+
+[[files]]
+file = "kubejs/server_scripts/tags_tools.js"
+hash = "7bc10401975316cc6300369958f10ff1da30bbf07e81722149f41b7cf789c4b4"
+
+[[files]]
+file = "kubejs/server_scripts/tags_weapons.js"
+hash = "ce821104c442c6eddd53d43d40a18330b748937ff9782603cc130a49987ccd99"
+
+[[files]]
 file = "kubejs/server_scripts/veins.js"
-hash = "9f1e8065bedfaf2c2f39fa121f15bbf70ea6db9834ae488451d44be51151fd94"
+hash = "1a49c1342890e8d29fd24381ad17db8ea44059bc7f19fdee5883cf8fbb409f81"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -974,6 +978,11 @@ hash = "6042c56e1da6c3dd381f740b254f5b6407202e1d6ad4f2651ba4051ac60d37b0"
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "573bc2adfc72fb395c27c371568f0af20d0e83949637b6cf1b8a555a63814956"
+metafile = true
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "6317bd1e6013059a52574d7002e744cd1d662ba345d019d75e37d384fd6060b0"
 metafile = true
 
 [[files]]
@@ -1053,7 +1062,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "a5a7f8f0a4253f63fcf723361ac001d3ae072030f680c9f2176ff4e7d90e8da0"
+hash = "036bd1f08a582f2a38809e3ab65720d5e04d84fcc1c7b8558d6888c319e18527"
 metafile = true
 
 [[files]]
@@ -1733,7 +1742,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d2d8cf93100f6d256a03a7c0527394e269320582b2b19b6f8d10592ed3fe5384"
+hash = "16b74cef991fc37eb137b36ad8f2c991401c7c2c4d1f2d61f32f87e3fee1eea5"
 metafile = true
 
 [[files]]
@@ -1908,7 +1917,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "657ff0025d408f1021309ce5c759821d1f48e397811cc0da6f0b0400827896fa"
+hash = "2c5d9c47c2c16b1207f1335d10f99b1ba976bdc3363784674b8907ddd96e9c0a"
 metafile = true
 
 [[files]]
@@ -2008,7 +2017,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "f200f679b1df4951f9e134f3aaa2112758696b390bf17a64110a72bc57458315"
+hash = "6677b688d4d6ac20c1e9fe5df29f1e48931aca9275e0baa946fa278bf0f9f15d"
 metafile = true
 
 [[files]]
