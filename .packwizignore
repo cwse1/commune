@@ -4,7 +4,6 @@ plans/
 quilt*.jar
 devscripts/
 mods/minihud*
-mods/malilib*
 mods/tweakeroo*
 config/minihud.json
 config/tweakeroo.json

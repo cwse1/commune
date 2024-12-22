@@ -947,6 +947,11 @@ hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "6bfb82960a27af2c360036e01c0131c3ad9c778b4ba5e3df51bafe4f175317db"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "b86378c832836f63bfe348605a2f30be6aefb6f4813361cba08e07b1c2efabed"
 metafile = true
