@@ -1,7 +1,7 @@
 ServerEvents.tags('item', event => {
   const tools = []
   
-  blocks.forEach(tool => {
+  tools.forEach(tool => {
     event.add('commune:tools', tool)
   })
 })

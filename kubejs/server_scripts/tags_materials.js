@@ -1,7 +1,7 @@
 ServerEvents.tags('item', event => {
   const materials = []
   
-  engineerging.forEach(material => {
+  materials.forEach(material => {
     event.add('commune:materials', material)
   })
 })
