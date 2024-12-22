@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "fe764a97501bdf3e01430a426128e34d087e65c0e8806bbaacbdcfbc8278a750"
+hash = "bb3551627861be5fd2d873508992ffa2ca65dbcad3056d6df0cb101b5ad87cba"
 metafile = true
 
 [[files]]
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "e75d5121d4e8403c84d431ef99b80a2b5542855f0ed12e003296987dc964c8e7"
+hash = "ee792c4a34cb31c13119d860c135dc8061a5f22b30c8dd7d1b809f9e202586f0"
 metafile = true
 
 [[files]]
@@ -1358,7 +1358,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "12262a6fc189ddd24d3231a59054e07c3cd12dcba364055244f41e8331f139fb"
+hash = "c5234ec87e6bea9194af7f6ff70d820a32ddcad7199cc0b7ee92b11f6e6edf38"
 metafile = true
 
 [[files]]
