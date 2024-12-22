@@ -1,7 +1,4 @@
 tmp/
 plans/
 *.mrpack
-quilt*.jar
 devscripts/
-server.properties
-start.sh

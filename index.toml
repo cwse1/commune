@@ -1375,11 +1375,3 @@ metafile = true
 file = "mods/you-shall-not-spawn.pw.toml"
 hash = "f3fb9b0e7de54343acbcfc4b612ff85cf5462c5366067503233a5d9cf4085f24"
 metafile = true
-
-[[files]]
-file = "server.properties"
-hash = "c3a79ed16661b0e1ceaa492e5b892220d5fb20f6d6f4f0fba1e12ce5d8ef20e3"
-
-[[files]]
-file = "start.sh"
-hash = "335d677163f3d8439ade0df973464ebfc15794484e04a42d6cdcec44596da554"

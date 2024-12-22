@@ -1,8 +1,10 @@
 tmp/
 plans/
 *.mrpack
-quilt*.jar
 devscripts/
+
+
+# admin only
 mods/minihud*
 mods/tweakeroo*
 config/minihud.json
