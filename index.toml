@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "ea8f6ed20e3cdffc2eb064b9fd37501078cb5273fd43e6430dd827058bd2beac"
+hash = "6a4bb513a11e465cf69de87169143ef4f19b4f0fac4d15ec5b366a6b9c34f97a"
 metafile = true
 
 [[files]]
@@ -1043,7 +1043,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f03e6e9ed18e510f7ee6671a984cbdda3fabf1f5e037163f76264e8f0cbb5198"
+hash = "8ada718700562cd7d463a2677113b44ee7436be093f97579638b06411a8376a2"
 metafile = true
 
 [[files]]
@@ -1103,7 +1103,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "dc43722171ffaf5b2eb55f9d72079965996e160c6dba5d700fd0bbefdfe6106a"
+hash = "638567f499675815cb60744092dc3ebb8a7d889500604e190074aca83f055030"
 metafile = true
 
 [[files]]
