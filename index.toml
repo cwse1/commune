@@ -738,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "b5101554156ef1298ba8e68cc2dfbc6e05723b0fb6226081593a129e85a347a5"
+hash = "0e99c9b4a524d9cb74553f7b3ed331081031fef9d3c0c437f3734fbd9a350a2d"
 metafile = true
 
 [[files]]
@@ -973,7 +973,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e2ebf7eefe0119002329c02a7121e262821b0f6d9d6e164f818b07aeeec1c396"
+hash = "8c8a415665b41e96e7afd7503a94fa58998677801eab82931112314459723ffd"
 metafile = true
 
 [[files]]
@@ -983,7 +983,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "16b74cef991fc37eb137b36ad8f2c991401c7c2c4d1f2d61f32f87e3fee1eea5"
+hash = "1beaceb2b40228c48cbda401cbc059d0021e99b27f81a8813519b9bd43f4904d"
 metafile = true
 
 [[files]]
