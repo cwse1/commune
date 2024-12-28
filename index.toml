@@ -153,10 +153,6 @@ file = "kubejs/server_scripts/commands.js"
 hash = "8a2f99d8bd890f8a4533a4ba1be525fe94c8c453c96c3708906aaff7d35bd499"
 
 [[files]]
-file = "kubejs/server_scripts/disabled_recipes.js"
-hash = "5927380b3ace94cea705dcd596b341491964b239f8d711567a55c1bf9e8e4e04"
-
-[[files]]
 file = "kubejs/server_scripts/load.js"
 hash = "c1243e94cb48d1c4c9ba723fa3369c20348f9c9d0412f67ff50b394266171762"
 
@@ -166,7 +162,7 @@ hash = "1beab093618659023993d85d8f91b18e4d0187dbbe692c30ddb8517449581d8f"
 
 [[files]]
 file = "kubejs/server_scripts/tags_engineering.js"
-hash = "00fdcd029d39272f6c0530335ccf6164c2981f6966ecf493992cd5ad5d038224"
+hash = "58ae4b71d6346973e5156c571cd38ff6b675897cb4a804d93e6d17f1b4e3cc60"
 
 [[files]]
 file = "kubejs/server_scripts/tags_fauna_products.js"
