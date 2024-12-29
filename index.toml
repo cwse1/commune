@@ -118,7 +118,11 @@ hash = "7f8016a7ecd9ac6c3ad45195a4b20d9aff10c5140aec73f5087525913d98c37f"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "a87facdfa6bfcee51a84f6669b0f51a1463b0da4768acfb015752bb4a818b27c"
+hash = "34c1e5895f79ee9298c017298a04f9fbf5734247f2bd3a11d760261630997716"
+
+[[files]]
+file = "kubejs/config/dev.properties"
+hash = "29c72654b12601d9fba0c5a73b3b3520a9f85ef31a0edd3cc3d478620184e0a7"
 
 [[files]]
 file = "kubejs/data/custom nether portals v2.3.9 (MC 1.20-1.20.4).zip"
@@ -150,39 +154,11 @@ hash = "8e8efffcca5b9f2dca2a2b8499bdafc969cdb6f8172348143cd27a6c3a21b6b3"
 
 [[files]]
 file = "kubejs/server_scripts/commands.js"
-hash = "8a2f99d8bd890f8a4533a4ba1be525fe94c8c453c96c3708906aaff7d35bd499"
+hash = "bcaa520aee989e5b4c34769fb8c50322ce6649ac27507a6fe3127b4a3aea7ad1"
 
 [[files]]
 file = "kubejs/server_scripts/load.js"
-hash = "c1243e94cb48d1c4c9ba723fa3369c20348f9c9d0412f67ff50b394266171762"
-
-[[files]]
-file = "kubejs/server_scripts/tags_building.js"
-hash = "1beab093618659023993d85d8f91b18e4d0187dbbe692c30ddb8517449581d8f"
-
-[[files]]
-file = "kubejs/server_scripts/tags_engineering.js"
-hash = "58ae4b71d6346973e5156c571cd38ff6b675897cb4a804d93e6d17f1b4e3cc60"
-
-[[files]]
-file = "kubejs/server_scripts/tags_fauna_products.js"
-hash = "02f2495f6aac39387dc42642f65764d841f704fb93e7cad76f403f798cde74fa"
-
-[[files]]
-file = "kubejs/server_scripts/tags_flora.js"
-hash = "94e13502bc364f07c3f31a6e20602184eea4fcd704cfafed07ef08b40629738f"
-
-[[files]]
-file = "kubejs/server_scripts/tags_materials.js"
-hash = "b9c1dee0a8546c488a9d4e40c22127191492a8a1c78b42434d0a30e5df7b51d5"
-
-[[files]]
-file = "kubejs/server_scripts/tags_tools.js"
-hash = "68f28896885b7dc7a3bbb506063f4f6544ad1f67e508ca3289f84ea3655491e7"
-
-[[files]]
-file = "kubejs/server_scripts/tags_weapons.js"
-hash = "74b00bd0bcf5fc28a69bbfd7a116ca3edafd9ea4b1731ebd80272453542549a1"
+hash = "7220e75bb87fc3af356ffc23cf6ea6b3030be4d06877264e90731c3438147360"
 
 [[files]]
 file = "kubejs/server_scripts/veins.js"
