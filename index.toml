@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "f9278d338d0fc16a343206fdce858d5d57adb84a2ee12eb815053695f37a1886"
+hash = "42cfaca74786adca775e2a86be27c6900e56eb86a5d8428b6b6998ed1b33f1af"
 metafile = true
 
 [[files]]
@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "16de61b32acb724fc130debd459ffec5366d7a4fa428852aab26bf0d99ba2d97"
+hash = "1c88cfee239a15fd5e5398df0326e16616dd9a5ccef0ab8eeee4271fcb00fb77"
 metafile = true
 
 [[files]]
@@ -955,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1beaceb2b40228c48cbda401cbc059d0021e99b27f81a8813519b9bd43f4904d"
+hash = "30f2051999047a5fdecd8605b389dd2bea71316333ba563a1d50c55310a9d452"
 metafile = true
 
 [[files]]
@@ -1075,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "638567f499675815cb60744092dc3ebb8a7d889500604e190074aca83f055030"
+hash = "ab7d9307655620cda164ae36ce31ee630e825c9d9a2030ef22563032ab6435d6"
 metafile = true
 
 [[files]]
@@ -1240,7 +1240,7 @@ metafile = true
 
 [[files]]
 file = "mods/star-wars-planets.pw.toml"
-hash = "16592b8c92b467442484a6264a802b7221346c9025a917960037907f5802859e"
+hash = "f6a0739ff8d6eb6f7ce11079df57a09d5ddf95fe28c9109a15496b492f048e66"
 metafile = true
 
 [[files]]
