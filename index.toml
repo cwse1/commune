@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-addon-compat.pw.toml"
-hash = "a816f80d3ddb9233c17da83c0473ea23a0eef495f5f62fd076c07fd7aed71993"
+hash = "7c09eade43030f265996b88e20c8f80754deea122e9bcaf5095b8d00135c182a"
 metafile = true
 
 [[files]]
@@ -955,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "30f2051999047a5fdecd8605b389dd2bea71316333ba563a1d50c55310a9d452"
+hash = "98c5a3ed8bd41a7ab32f6c52006f443849f3ccfa8683b8c013fd57a1ee67f692"
 metafile = true
 
 [[files]]
@@ -1260,7 +1260,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "141cdd7d3bdbfb67bb1571c89a41018150caee637c03c464e4f2608a88a9af4a"
+hash = "b8861226fbb638ea07284255002b3ed5f21ad032dd11fe439925d43cc0ec1945"
 metafile = true
 
 [[files]]
