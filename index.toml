@@ -1061,11 +1061,6 @@ hash = "39e6d9f6184a8a67afecf805e370b3a377fc45bf6b9d89903c846188aa9e5e4a"
 metafile = true
 
 [[files]]
-file = "mods/probejs.pw.toml"
-hash = "81bd6dbe339bd8eff731595e86be456e59c0de4d1382cee6593d557070a24436"
-metafile = true
-
-[[files]]
 file = "mods/promenade.pw.toml"
 hash = "c385b5e757bac21a475bdb9237ae31ea34f2d6e342c11d34bafc8823f4854e2a"
 metafile = true
