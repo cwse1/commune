@@ -26,7 +26,7 @@
   },
   "replay": {
     "showChat": false,
-    "showServerIPs": true,
+    "showServerIPs": false,
     "camera": "replaymod.camera.classic",
     "camera_valid_values": [
       "replaymod.camera.classic",

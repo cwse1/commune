@@ -13,10 +13,6 @@ file = "config/blockmeter.toml"
 hash = "6e8551d7fd623ab6638bb1aa8f25342b7c34851b80bb46defd429905be4cb066"
 
 [[files]]
-file = "config/blur.json"
-hash = "cf0f2178068e6d9766ac8dea96b2a9f51480939a2f97c440816b6295744dd47a"
-
-[[files]]
 file = "config/bobby.conf"
 hash = "77b6042d3ea7278532f8df2e6f3c80b0b0ad7985eaf014beea5bec77f028b139"
 
@@ -33,36 +29,12 @@ file = "config/estrogen-common.toml"
 hash = "2a2eafc368e670f8fc682929ffdfc7211e070028750b15ac390b85cb077fdfe9"
 
 [[files]]
-file = "config/exposure-common.toml"
-hash = "4c304e08079b4f81d1d55877021da6466fea18d7d73b0357b1426bec0f5cd658"
-
-[[files]]
-file = "config/farmersdelight-common.toml"
-hash = "149e0ddb699fb5a2a82b03494660c31e2c2e8694323f1617e0408605cfa33f88"
-
-[[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
-
-[[files]]
-file = "config/lambdynlights.toml"
-hash = "8ab0ba537c88173435b3112c2f2fe1ac81f10d2b20d4e2fc137403c2dc3d47e5"
-
-[[files]]
 file = "config/lodestone-client.toml"
-hash = "f36fc4076e1c28544981cc952e8e79c93f858c563480be2a5661f464bbb7b231"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
-hash = "e0447c364091dfdddf8595edd14ed2d790be94deed6ec9f580d7191e3679c334"
+hash = "a39967153b308fff6652f74782819fedec036a026b9253bb061a16c89e3e9b1a"
 
 [[files]]
 file = "config/modmenu.json"
 hash = "a6ca39d1e9448b78368a6575ccf2ee98e4e210191b24fed842e0ddaf06652fa2"
-
-[[files]]
-file = "config/moreculling.toml"
-hash = "0fca628ae425c465701fea4b2290679228da52866b9a81ed49464880b7c725e9"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
@@ -70,7 +42,7 @@ hash = "7450aeb42d5e698945742fad3a666461d781d3c029bce770497b83d401b64bda"
 
 [[files]]
 file = "config/replaymod.json"
-hash = "4a60e4bd46681151805b965269be94e3a4f19bc40c33323896577bb17d87d398"
+hash = "5aa49c5fa3d0891b73cfe03c0d7af1e61dfc35f0e366dc6beeea5a8939a84d89"
 
 [[files]]
 file = "config/ringsofascension.json"

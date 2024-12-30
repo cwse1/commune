@@ -11,7 +11,7 @@
 	[graphics.fire]
 		#Downwards offset of Minecraft's first-person fire overlay. Higher numbers cause it to visually display lower and free up more screen space.
 		#Range: 0.0 ~ 1.0
-		fire_overlay_offset = 0.0
+		fire_overlay_offset = 5.0
 
 [screenshake]
 	#Intensity of screenshake. Higher numbers increase amplitude. Disable to turn off screenshake.
