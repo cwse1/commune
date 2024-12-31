@@ -9,12 +9,20 @@ file = "config/MouseTweaks.cfg"
 hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
 
 [[files]]
+file = "config/areas.json5"
+hash = "2037b1281987d11923d81aa6fb3468706cc2146fe6d5672ae8c0a551211bef49"
+
+[[files]]
 file = "config/blockmeter.toml"
 hash = "6e8551d7fd623ab6638bb1aa8f25342b7c34851b80bb46defd429905be4cb066"
 
 [[files]]
 file = "config/bobby.conf"
 hash = "77b6042d3ea7278532f8df2e6f3c80b0b0ad7985eaf014beea5bec77f028b139"
+
+[[files]]
+file = "config/craftify.toml"
+hash = "5ad1865a9dd27ac3e033651172799d8664daf3d7dcb93baa94daac78c5ad8194"
 
 [[files]]
 file = "config/create-server.toml"
@@ -29,12 +37,20 @@ file = "config/estrogen-common.toml"
 hash = "2a2eafc368e670f8fc682929ffdfc7211e070028750b15ac390b85cb077fdfe9"
 
 [[files]]
+file = "config/firstperson.json"
+hash = "9f46d0c208cbfc3c6fc22749ab0d1cb9d860b6ef0c0093da82f2455b1753d008"
+
+[[files]]
 file = "config/lodestone-client.toml"
 hash = "a39967153b308fff6652f74782819fedec036a026b9253bb061a16c89e3e9b1a"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "a6ca39d1e9448b78368a6575ccf2ee98e4e210191b24fed842e0ddaf06652fa2"
+hash = "7d002346b9c5a28c45232f116b4fdfcec48f1ba3959a971212a426ab1e8e93f0"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "17f4c998834d45ceb10d7d689c6d72e79b564fca370c15740b90a7454c0f0139"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
