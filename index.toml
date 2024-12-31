@@ -45,6 +45,10 @@ file = "config/lodestone-client.toml"
 hash = "a39967153b308fff6652f74782819fedec036a026b9253bb061a16c89e3e9b1a"
 
 [[files]]
+file = "config/minihud.json"
+hash = "b55f90378a16ca741d2adc1e64612bdf8249b025c637ddb13ddcc0ba0ea9755c"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "7d002346b9c5a28c45232f116b4fdfcec48f1ba3959a971212a426ab1e8e93f0"
 
@@ -71,6 +75,10 @@ hash = "c94ef7e24be5a28874251d6added3e5d6d2a31fe41efeea9972876b72c5d9f56"
 [[files]]
 file = "config/servercore/config.yml"
 hash = "abf442c6f52eded218a741f28a7340cdf8565cb20bcf60bd018bb3c1e97b4fa4"
+
+[[files]]
+file = "config/tweakeroo.json"
+hash = "e754e061e3371b1683af8bec1d5896e7a019484e838ff5acb00311dfb8e05644"
 
 [[files]]
 file = "config/wildernature.json"
@@ -927,6 +935,11 @@ hash = "93c35c8588d9811ad9c5625cc7e69c993f091ded26025842cdfc08cf2c5e9849"
 metafile = true
 
 [[files]]
+file = "mods/minihud.pw.toml"
+hash = "e5bf9057e940554a9d6f653af4118d64f09040871c7ada034a697d630fedcab5"
+metafile = true
+
+[[files]]
 file = "mods/mobs-of-mythology.pw.toml"
 hash = "8d3af7aa7ee10315d96e2f84f8a14ab9c02660bee01486f0baabda29fb0203cc"
 metafile = true
@@ -1074,6 +1087,11 @@ metafile = true
 [[files]]
 file = "mods/powerae2cc.pw.toml"
 hash = "39e6d9f6184a8a67afecf805e370b3a377fc45bf6b9d89903c846188aa9e5e4a"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "81bd6dbe339bd8eff731595e86be456e59c0de4d1382cee6593d557070a24436"
 metafile = true
 
 [[files]]
@@ -1284,6 +1302,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "9b51c35206dd74dac90e3cc3f2ff9e1c45552500e6a01be183bc64260a0e5815"
 metafile = true
 
 [[files]]
