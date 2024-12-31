@@ -13,14 +13,14 @@ config/minihud.json
 config/tweakeroo.json
 
 # remove from lite
-# mods/visuality*
-# mods/skinswapper*
-# mods/effective*
-# mods/iris*
-# mods/rrls*
-# mods/replaymod*
-# mods/malilib*
-# mods/first-person*
-# mods/fadeless*
-# mods/distanthorizons*
-# mods/blur-plus*
+mods/visuality*
+mods/skinswapper*
+mods/effective*
+mods/iris*
+mods/rrls*
+mods/replaymod*
+mods/malilib*
+mods/first-person*
+mods/fadeless*
+mods/distanthorizons*
+mods/blur-plus*
