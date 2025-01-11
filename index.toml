@@ -1107,11 +1107,6 @@ hash = "48701a7bedac04f66dd7b347b15dcc811a1ddcca6ce4ef9dcefc1cf7da83e930"
 metafile = true
 
 [[files]]
-file = "mods/rei-custom-command.pw.toml"
-hash = "48ddcc9add6e5c4e86cd6ef7ce4cd69225632fbea4bdacd2b888a3f62b0cf52d"
-metafile = true
-
-[[files]]
 file = "mods/rei.pw.toml"
 hash = "2c5d9c47c2c16b1207f1335d10f99b1ba976bdc3363784674b8907ddd96e9c0a"
 metafile = true

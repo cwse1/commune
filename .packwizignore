@@ -8,13 +8,15 @@ devscripts/
 mods/minihud*
 mods/tweakeroo*
 mods/probejs*
+mods/rei-custom*
 config/minihud.json
 config/tweakeroo.json
 
 # remove from lite
 # mods/visuality*
 # mods/skinswapper*
-# mods/satin*
+# mods/effective*
+# mods/iris*
 # mods/rrls*
 # mods/replaymod*
 # mods/malilib*
