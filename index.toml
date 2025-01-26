@@ -542,11 +542,6 @@ hash = "076d114e25526f50fac7c7c9a6b2cf2bb19b51c7e5f42db51f6d62e603582e85"
 metafile = true
 
 [[files]]
-file = "mods/doggo-mod-overhauled.pw.toml"
-hash = "17d4a0b52323087d4e6ca1ca0203594c47ecd35abe31106f0ec2119a894401f4"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "0d7166d7b95a9311ca0e4fea8ba4440da2a3364d35fce71a6b5a54b6a074f672"
 metafile = true
@@ -889,11 +884,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "93c35c8588d9811ad9c5625cc7e69c993f091ded26025842cdfc08cf2c5e9849"
-metafile = true
-
-[[files]]
-file = "mods/mobs-of-mythology.pw.toml"
-hash = "8d3af7aa7ee10315d96e2f84f8a14ab9c02660bee01486f0baabda29fb0203cc"
 metafile = true
 
 [[files]]
