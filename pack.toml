@@ -1,12 +1,12 @@
 name = "Commune"
 author = "cwse"
-version = "2.0.1"
+version = "2.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "63ec5f8d9be2931c10ab4b701c806fabd0148f6408db1592b40f4221fde35dd1"
+hash = "8d033cb133794a732b4f088a7c7caa00a3b525a218994756257398ce9c2c2f7a"
 
 [versions]
 minecraft = "1.20.1"
