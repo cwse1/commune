@@ -1,16 +1,6 @@
 ServerEvents.commandRegistry(event => {
   const {commands: Commands, arguments: Arguments} = event;
   event.register(
-    Commands.literal("boot")
-      .requires(src => src.hasPermission(4))
-      .executes(c => {
-        let i = 0;
-        Utils.server.runCommand("/player TheLibrary spawn");
-        Utils.server.runCommand("/tp TheLibrary 0 72 0");
-        return i;
-      })
-  );
-  event.register(
     Commands.literal("size")
       .requires(src => src.hasPermission(2))
       .executes(c => size(c.source.player))
