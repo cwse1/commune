@@ -15,7 +15,7 @@
 [chestEstrogen]
 	#.
 	#Enable chest feature physics
-	chestPhysics = true
+	chestPhysics = false
 	#.
 	#Enable chest feature
 	chestFeature = true

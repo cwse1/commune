@@ -1,13 +1,13 @@
 name = "KubeJS Offline"
-filename = "kubejsoffline-4.0.2.jar"
+filename = "kubejsoffline-5.0.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/7I1fu1km/versions/Guh1iTyK/kubejsoffline-4.0.2.jar"
+url = "https://cdn.modrinth.com/data/7I1fu1km/versions/mkWJpZAj/kubejsoffline-5.0.3.jar"
 hash-format = "sha512"
-hash = "caa766c264493afcae0b1b961b2f277bf06eeb77c43304d6e582507afab718cc00a9a5959686289197ceed6926688b31a86b616fad0d44451f57af7c43f20715"
+hash = "9732e5be63f0be025c657a079f1caec54f38efe6528843128557fb21d67e1677466736a66ee7c6a39a45dba3d4bfd8478b04400288401791cd62b9008b468019"
 
 [update]
 [update.modrinth]
 mod-id = "7I1fu1km"
-version = "Guh1iTyK"
+version = "mkWJpZAj"

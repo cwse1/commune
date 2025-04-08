@@ -1,8 +1,5 @@
 {
 	"disabledGroups": [
-		"custom:ae75ff69-2ab9-49fd-8260-15fcbcf907a4",
-		"custom:bab0ab84-d27b-4da4-93ff-2d5a96a4c7ee",
-		"custom:dbf70ece-5dde-47a1-a7d4-f7353bb8fb38",
 		"minecraft:music_discs",
 		"minecraft:spawn_eggs",
 		"minecraft:tipped_arrows",

@@ -34,9 +34,9 @@
 		"ringExperience": true,
 		"ringWaterWalking": true,
 		"ringWither": true,
-		"ringUndying": true,
+		"ringUndying": false,
 		"ringSlowResistance": true,
-		"ringSteadfastSteps": true
+		"ringSteadfastSteps": false
 	},
 
 	// Sets the amplifier of the effect given by the ring. Example: 0 = Fire Resistance I; 1 = Fire Resistance II
