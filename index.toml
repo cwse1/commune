@@ -101,10 +101,6 @@ file = "kubejs/assets/powah/textures/entity/drill/uraninite_raw.png"
 hash = "f1b7b2531f73c136f5deabe8ed861a40a42ad6bffb2c59b45d5a76024c976d74"
 
 [[files]]
-file = "kubejs/client_scripts/rei_collapse.js"
-hash = "40f20644cef4113c35b4af1687b265093d6575caa96ba67dbf1c1f9f05a57d97"
-
-[[files]]
 file = "kubejs/config/common.properties"
 hash = "7f8016a7ecd9ac6c3ad45195a4b20d9aff10c5140aec73f5087525913d98c37f"
 
