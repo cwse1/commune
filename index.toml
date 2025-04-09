@@ -65,6 +65,10 @@ file = "config/ringsofascension.json"
 hash = "03627a96212498d240403420b983639fc4d35f26f9aa0fc58d74084b695dcec4"
 
 [[files]]
+file = "config/roughlyenoughitems/collapsible.json5"
+hash = "23d8ef19fdd4c4243acd36cdf2995a38dccacc9283ab24462015a6dd60322dee"
+
+[[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "c94ef7e24be5a28874251d6added3e5d6d2a31fe41efeea9972876b72c5d9f56"
 
