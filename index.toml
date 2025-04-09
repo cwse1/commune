@@ -168,11 +168,6 @@ hash = "ff4b1002e2ca246ab15c2d9889832e873e49cb05fe9916f3282f92bd53294ca8"
 metafile = true
 
 [[files]]
-file = "mods/ad_extendra-continuation.pw.toml"
-hash = "3ab47fed1353708bb23788fa8164e5e4439c50c861edd470113ad717d36f827f"
-metafile = true
-
-[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "9e56c813c3000384bbb06f72500ea95b4407cd710143840a4a41440dbf1d8a1c"
 metafile = true
