@@ -11,3 +11,9 @@ hash = "f58c75e08f6147c51dfeefb8c53e5f0042cfef3acdfcfd2a741e9cc3c46d83642af0705c
 [update.modrinth]
 mod-id = "iM50gcBD"
 version = "JapPN4QV"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

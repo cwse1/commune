@@ -11,3 +11,9 @@ hash = "14f5548cffa24fabdcfce6626fc813db42e28350a126833a54e1c54e13e6b393e232b5a0
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "vSDePnsB"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

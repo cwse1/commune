@@ -11,3 +11,9 @@ hash = "aa1593f4466370daf2c4acbeea93dbb6249e9aaddaacc0383b0b016067ca47202398d892
 [update.modrinth]
 mod-id = "pNabrMMw"
 version = "QewbGM3G"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

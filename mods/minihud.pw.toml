@@ -11,3 +11,9 @@ hash = "913d4b745db01c05d4f12b62d045b098b24a7a26b918446e4682c3a0c3a5b8029c7b824b
 [update.modrinth]
 mod-id = "UMxybHE8"
 version = "s4CUdPPN"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

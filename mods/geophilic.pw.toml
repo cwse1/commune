@@ -11,3 +11,9 @@ hash = "e253d17d12f94227154cc045eb8c47f70b7119328792f28a52c8605560cc463b5aa00d25
 [update.modrinth]
 mod-id = "hl5OLM95"
 version = "Z3bWyYpn"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

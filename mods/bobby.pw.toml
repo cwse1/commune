@@ -11,3 +11,9 @@ hash = "2c2872b633f67feef2af378793da928d1595bb0cd841ee8ca6cd2bbbef45d8f9c14456b2
 [update.modrinth]
 mod-id = "M08ruV16"
 version = "2cuVyTav"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

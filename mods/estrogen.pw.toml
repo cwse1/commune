@@ -11,3 +11,9 @@ hash = "63b41969ca3008082a5c2c7b1a5b4a4ad10f6ba46f84357893df33413e97a9d910cbfd22
 [update.modrinth]
 mod-id = "HhIJW8n1"
 version = "MCFB20q2"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

@@ -11,3 +11,9 @@ hash = "873845d3b5c85d9acb5750a46119cb92e18bc0101857ee081283f88fb1204eda418818b9
 [update.modrinth]
 mod-id = "F8BQNPWX"
 version = "tx891fzz"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

@@ -11,3 +11,9 @@ hash = "c629f773cacdc207255437fa67ab52ac1f5de5cfeb1d84fb838e86a8745afe54d10d0467
 [update.modrinth]
 mod-id = "sgQirvDi"
 version = "TRTOjoGB"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

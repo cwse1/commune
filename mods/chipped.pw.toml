@@ -11,3 +11,9 @@ hash = "5e12cc2ac7aec827a06fb9358fa53a25040428ae0f192a96305b129b084073154a6ae862
 [update.modrinth]
 mod-id = "BAscRYKm"
 version = "pwyEaKDs"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

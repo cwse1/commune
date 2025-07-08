@@ -11,3 +11,9 @@ hash = "d10acb6ba4fa104372ad98baff2734bd98622ab3396a751a77c204efd349b73bf4044af4
 [update.modrinth]
 mod-id = "NcUtCpym"
 version = "fQpXYWtL"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

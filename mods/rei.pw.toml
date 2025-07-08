@@ -11,3 +11,9 @@ hash = "1eaf6de6ba640407599767d150aa0c7dd71ad071915bf34d9a06fa8a0a3825882cd0fa96
 [update.modrinth]
 mod-id = "nfn13YXA"
 version = "nYcMSS03"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

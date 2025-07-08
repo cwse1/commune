@@ -11,3 +11,9 @@ hash = "a10218cd801f2f93a9ba96e6c46e732dbd8cf58c3862134d008c6a4dea0f1678f4ddd9b5
 [update.modrinth]
 mod-id = "qQpWCN75"
 version = "QM70Gb46"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

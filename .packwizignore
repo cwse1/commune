@@ -1,8 +1,5 @@
-tmp/
-plans/
 *.mrpack
-devscripts/
-
+profiles/
 
 # admin only
 mods/minihud*

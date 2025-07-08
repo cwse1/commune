@@ -11,3 +11,9 @@ hash = "b88f5dcc7e0a064918c5444ea805531129a271dc5002501368156b74aadf99c83fc9a953
 [update.modrinth]
 mod-id = "rlloIFEV"
 version = "PO5Zx5TX"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

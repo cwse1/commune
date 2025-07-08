@@ -11,3 +11,9 @@ hash = "1dc8e2c2e5785541f22f4b7c628c6deab4bc5b6c5880824f146e5bdefbb2b15686f3133b
 [update.modrinth]
 mod-id = "meZK2DCX"
 version = "J6b05anw"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

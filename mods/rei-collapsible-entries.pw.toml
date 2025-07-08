@@ -11,3 +11,9 @@ hash = "bafc6b3d10ef551f08fb650c0ae428eea22d73939af272e25d45d6730625b56b515b076f
 [update.modrinth]
 mod-id = "lvuenewC"
 version = "3X1XW7t0"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

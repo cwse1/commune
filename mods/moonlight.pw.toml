@@ -11,3 +11,9 @@ hash = "0c0bb8cde5b72bcb6075151d0cd1f6f92dff9d36bb05d2011990ecb25c6d7082892e278e
 [update.modrinth]
 mod-id = "twkfQtEc"
 version = "GVVbixH6"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

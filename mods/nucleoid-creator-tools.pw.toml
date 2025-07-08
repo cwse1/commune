@@ -11,3 +11,9 @@ hash = "bac85d5a1f1f01b849b9bd687cead876752c77f7407e930b0c143ecdc33f6af1ad7af3ef
 [update.modrinth]
 mod-id = "HDocER98"
 version = "5yNE8dkj"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

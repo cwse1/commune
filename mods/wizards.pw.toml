@@ -11,3 +11,9 @@ hash = "b413f5fb382bf177ebf66ec55abd520c65aac4ac13cb1ea64f2fb120b311340231d8f87b
 [update.modrinth]
 mod-id = "NkGaQMDA"
 version = "QPbAhJE1"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

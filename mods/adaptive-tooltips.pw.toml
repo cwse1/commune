@@ -11,3 +11,9 @@ hash = "4e7e930360a122eef64874a88f3410e5b050559782a8270a37e80803753af2ad1be6d9c6
 [update.modrinth]
 mod-id = "wFv8yCxM"
 version = "MgbaLEPy"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

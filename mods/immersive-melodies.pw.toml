@@ -11,3 +11,9 @@ hash = "0a1ca564eef83609a1d75ee15693af2742fe82f2ce25193e46daa717c9305ae6ab73d642
 [update.modrinth]
 mod-id = "TaSmHw8V"
 version = "HAK50kAm"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

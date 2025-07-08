@@ -11,3 +11,9 @@ hash = "8e1a74ffc8fada2b2bde59e5d51e5964591ad0b6a17fa128ed4215b9d5b654533c3d39dc
 [update.modrinth]
 mod-id = "pcPXJeZi"
 version = "vwgKoecR"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

@@ -11,3 +11,9 @@ hash = "8b6a55b9149531dfdde8a15391ff2aab568c5f1a49d0d837a4421ec23fe9f49a9bd4094e
 [update.modrinth]
 mod-id = "1DWmBJVA"
 version = "WdjalkV8"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

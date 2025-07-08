@@ -11,3 +11,9 @@ hash = "9a2b91461186b01a82d54a67bf7344f5bf721ab106bc278b8fdaeb96387b8861b519bdd9
 [update.modrinth]
 mod-id = "LTTvOp5L"
 version = "B6hB8DMT"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

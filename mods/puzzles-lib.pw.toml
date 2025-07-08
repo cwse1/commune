@@ -11,3 +11,9 @@ hash = "340f5ee637a8a35b2ce66b2fda0b2e829e58b8dcc445856a7635f4f77ad79c894a38ee26
 [update.modrinth]
 mod-id = "QAGBst4M"
 version = "RbcWdHr1"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

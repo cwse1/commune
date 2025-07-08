@@ -11,3 +11,9 @@ hash = "e0eb3b062e5ce56c533f6bb30bb55dfae051ab10b1da59b03f221d54a9e11e0feed13c3c
 [update.modrinth]
 mod-id = "muf0XoRe"
 version = "k5hMtMM5"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

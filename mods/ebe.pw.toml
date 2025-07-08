@@ -11,3 +11,9 @@ hash = "7e8b402fd25efd396bc7f0f25a663808ae9890accc227850c454dfcdc975657f22afceb1
 [update.modrinth]
 mod-id = "OVuFYfre"
 version = "i3v1Skck"
+
+
+[option]
+optional = bool
+default = bool
+description = ''

@@ -11,3 +11,9 @@ hash = "f75b6953825e0d59a5c205fc686e82ea67fa76bdbd79b39a9ab2d948a090503c6638de7b
 [update.modrinth]
 mod-id = "rcLriA4v"
 version = "HuXAp0GB"
+
+
+[option]
+optional = bool
+default = bool
+description = ''
