@@ -1,5 +1,6 @@
 *.mrpack
 profiles/
+Makefile
 
 # admin only
 mods/minihud*

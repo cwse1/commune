@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Makefile"
-hash = "585ddb19a6eb93eb1b7c7d97412ba8d0fa07006f30b0a18a22839ec4f7d8d21d"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "7c1ea48f61553ef76e7a5ecb1177de152e741518e927603b9366675769f6a442"
 
@@ -242,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "4f84ae8437e604ef82cf0aa3fdb76b23295a060a27ad6035475626b37a78df26"
+hash = "e47bd53c4a8456dbc94100f1b00ad10e92c7ad99e9bb81d907da33ebc7ac39d8"
 metafile = true
 
 [[files]]
