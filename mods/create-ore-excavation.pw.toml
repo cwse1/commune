@@ -12,8 +12,7 @@ hash = "8690a12261bee7db1b75fe34148fa49fdd7d18ffe9ade97ea0273b3e5a1481ad53c1b015
 mod-id = "ResbpANg"
 version = "O48L7huv"
 
-
 [option]
-optional = bool
-default = bool
+optional = false
+default = true
 description = ''

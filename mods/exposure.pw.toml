@@ -12,8 +12,7 @@ hash = "1b65566b954ab6712c15268a983eef4875341779bf5f80f65141e93818ffc8678861d1e1
 mod-id = "hB899VmG"
 version = "fiezBPPG"
 
-
 [option]
-optional = bool
-default = bool
+optional = false
+default = true
 description = ''

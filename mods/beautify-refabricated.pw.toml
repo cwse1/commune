@@ -12,8 +12,7 @@ hash = "2d6fc3c9a3a53328e56771ff60852b6913975ef167f369993a42d3bc657dc60eb662bbfb
 mod-id = "DhSSvaxs"
 version = "6tIaagwA"
 
-
 [option]
-optional = bool
-default = bool
+optional = false
+default = true
 description = ''

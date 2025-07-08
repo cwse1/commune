@@ -12,8 +12,7 @@ hash = "9a7837e04bb34376611b207a3b20e5fe1c82a4822b42929d5b410809ec4b88ff3cac8821
 mod-id = "mOgUt4GM"
 version = "lEkperf6"
 
-
 [option]
-optional = bool
-default = bool
+optional = false
+default = true
 description = ''

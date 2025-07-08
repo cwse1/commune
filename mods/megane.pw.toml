@@ -12,8 +12,7 @@ hash = "b61156cb403a73883ad2f574dd372ec087bbf2ae22a0de03dc2ee4af4ed9bf29fd328833
 mod-id = "ZNk5S5U6"
 version = "oGKLI8RF"
 
-
 [option]
-optional = bool
-default = bool
+optional = false
+default = true
 description = ''

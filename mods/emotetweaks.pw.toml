@@ -12,8 +12,7 @@ hash = "fe87ca6a6e4c20fbddbc0d58b24b231f32afacb3e6ed72505bf51772b2287b31d9ea1c78
 mod-id = "QfXPAsap"
 version = "iHqS2PKh"
 
-
 [option]
-optional = bool
-default = bool
+optional = false
+default = true
 description = ''

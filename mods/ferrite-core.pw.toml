@@ -12,8 +12,7 @@ hash = "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba05653
 mod-id = "uXXizFIs"
 version = "unerR5MN"
 
-
 [option]
-optional = bool
-default = bool
+optional = false
+default = true
 description = ''

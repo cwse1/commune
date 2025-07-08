@@ -12,8 +12,7 @@ hash = "f20484d5bc780bee9b388ff6075e7c3bd130c7f8cae75a425bfd1fb68d03ca19288c09b0
 mod-id = "K01OU20C"
 version = "Ielhod3p"
 
-
 [option]
-optional = bool
-default = bool
+optional = false
+default = true
 description = ''

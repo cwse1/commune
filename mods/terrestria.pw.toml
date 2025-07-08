@@ -12,8 +12,7 @@ hash = "77e8b3e1e97f41b2681f57b3b559f56d1d706b2362a8ac53f2030c967a0d82a4153da4a3
 mod-id = "lsUDPMOT"
 version = "3Q2d6Vf0"
 
-
 [option]
-optional = bool
-default = bool
+optional = false
+default = true
 description = ''

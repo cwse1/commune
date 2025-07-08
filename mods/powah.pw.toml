@@ -12,8 +12,7 @@ hash = "844d3a5c7502a150046531f9b2bb4327bbb02f8479db00542fc5933f5ae5450ecd45bc87
 mod-id = "KZO4S4DO"
 version = "EWDexyqc"
 
-
 [option]
-optional = bool
-default = bool
+optional = false
+default = true
 description = ''

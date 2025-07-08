@@ -12,8 +12,7 @@ hash = "22e7e59f4c708f927f0e7c17e92491a25bb233ecfc6993b6f01d7f6c1a9fe0e88eb1f0a5
 mod-id = "8BmcQJ2H"
 version = "ezKSGafs"
 
-
 [option]
-optional = bool
-default = bool
+optional = false
+default = true
 description = ''

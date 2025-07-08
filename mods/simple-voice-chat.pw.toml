@@ -12,8 +12,7 @@ hash = "f14d56dca6c82eac70cf34fb7c9b14b785e118435451689ccd85c54f17e06b22d60295bd
 mod-id = "9eGKb6K1"
 version = "PkxNMemc"
 
-
 [option]
-optional = bool
-default = bool
+optional = false
+default = true
 description = ''

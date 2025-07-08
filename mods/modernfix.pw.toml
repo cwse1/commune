@@ -8,8 +8,7 @@ url = "https://cdn.modrinth.com/data/nmDcB62a/versions/xNIWGL6R/modernfix-fabric
 hash-format = "sha512"
 hash = "3b715a799cf38adbcba9d6b08de2bf50965e5974fac3bc092920c829550f7042f5882d9037d9c321ba1e3cade00b285171c0f85772e2409f0e7851e86aa0ecbd"
 
-
 [option]
-optional = bool
-default = bool
+optional = false
+default = true
 description = ''
