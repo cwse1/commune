@@ -1,4 +1,5 @@
 *.mrpack
+build/
 profiles/
 Makefile
 
