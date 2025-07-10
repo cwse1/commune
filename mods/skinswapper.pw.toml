@@ -1,17 +1,17 @@
-name = "Skin Swapper"
-filename = "skin-swapper-fabric-3.1.4.jar"
-side = "client"
+filename = 'skin-swapper-fabric-3.1.4.jar'
+name = 'Skin Swapper'
+side = 'client'
 
 [download]
-url = "https://cdn.modrinth.com/data/OoXncSHG/versions/iIcqwPAb/skin-swapper-fabric-3.1.4.jar"
-hash-format = "sha512"
-hash = "1eaa57467eb7e4eff96dad9ef45cca82bf35d05da2605666d8451cea8b9f746d2783940054ab8fae5066d6ef2f60e31a11a5159ac1d611e1a67d0a140ef7f1be"
-
-[update]
-[update.modrinth]
-mod-id = "OoXncSHG"
-version = "iIcqwPAb"
+  hash = '1eaa57467eb7e4eff96dad9ef45cca82bf35d05da2605666d8451cea8b9f746d2783940054ab8fae5066d6ef2f60e31a11a5159ac1d611e1a67d0a140ef7f1be'
+  hash-format = 'sha512'
+  url = 'https://cdn.modrinth.com/data/OoXncSHG/versions/iIcqwPAb/skin-swapper-fabric-3.1.4.jar'
 
 [option]
-optional = true
-default = true
+  default = true
+  optional = true
+
+[update]
+  [update.modrinth]
+    mod-id = 'OoXncSHG'
+    version = 'iIcqwPAb'

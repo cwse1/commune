@@ -7,16 +7,17 @@ PROFILE_LITE := profiles/lite/
 PROFILE_ADMIN := profiles/admin/
 
 define main-configs
+	@cp ${PROFILE_MAIN}.packwizignore-main .packwizignore
 	@for item in ${PROFILE_MAIN}config/*; do \
 		if [[ ! -f "$$item" ]]; then \
-			echo "dir"; \
+			echo "No configs to copy"; \
 		else \
 			cp $$item config/$$(basename $${item/-main/}); \
 		fi \
 	done
 	@for item in ${PROFILE_MAIN}kubejs/config/*; do \
 		if [[ ! -f "$$item" ]]; then \
-			echo "dir"; \
+			echo "No configs to copy"; \
 		else \
 			cp $$item kubejs/config/$$(basename $${item/-main/}); \
 		fi \
@@ -25,21 +26,25 @@ endef
 
 define main-mods
 	@for item in ${PROFILE_MAIN}mods/*; do \
-		echo "$$item"; \
+		if [[ ! -f "$$item" ]]; then \
+			echo "No configs to copy"; \
+		else \
+			$(DASEL) put -t bool -v true -f mods/$$(basename $${item}) -r toml -s 'option.default'; \
+		fi \
 	done
 endef
 
 define lite-configs
 	@for item in ${PROFILE_LITE}config/*; do \
 		if [[ ! -f "$$item" ]]; then \
-			echo "dir"; \
+			echo "No configs to copy"; \
 		else \
 			cp $$item config/$$(basename $${item/-lite/}); \
 		fi \
 	done
 	@for item in ${PROFILE_LITE}kubejs/config/*; do \
 		if [[ ! -f "$$item" ]]; then \
-			echo "dir"; \
+			echo "No configs to copy"; \
 		else \
 			cp $$item kubejs/config/$$(basename $${item/-lite/}); \
 		fi \
@@ -47,27 +52,42 @@ define lite-configs
 endef
 
 define lite-mods
+	@for item in ${PROFILE_LITE}mods/*; do \
+		if [[ ! -f "$$item" ]]; then \
+			echo "No configs to copy"; \
+		else \
+			$(DASEL) put -t bool -v false -f mods/$$(basename $${item}) -r toml -s 'option.default'; \
+		fi \
+	done
 endef
 
 define admin-configs
+	@cp ${PROFILE_ADMIN}.packwizignore-admin .packwizignore
 	@for item in ${PROFILE_ADMIN}config/*; do \
 		if [[ ! -f "$$item" ]]; then \
-			echo "dir"; \
+			echo "No configs to copy"; \
 		else \
 			cp $$item config/$$(basename $${item/-admin/}); \
 		fi \
 	done
 	@for item in ${PROFILE_ADMIN}kubejs/config/*; do \
 		if [[ ! -f "$$item" ]]; then \
-			echo "dir"; \
+			echo "No configs to copy"; \
 		else \
 			cp $$item kubejs/config/$$(basename $${item/-admin/}); \
 		fi \
 	done
 endef
 
-define admin-mods
-endef
+# define admin-mods
+# 	@for item in ${PROFILE_ADMIN}mods/*; do \
+# 		if [[ ! -f "$$item" ]]; then \
+# 			echo "No configs to copy"; \
+# 		else \
+# 			$(DASEL) put -t bool -v true -f mods/$$(basename $${item}) -r toml -s 'option.default'; \
+# 		fi \
+# 	done
+# endef
 
 .PHONY: help 
 
@@ -100,7 +120,6 @@ switch-admin:
 		echo "Provide a version number" && exit 1; \
 	fi
 	$(admin-configs)
-	$(admin-mods)
 	@$(DASEL) put -t string -v "${VERSION}a" -f pack.toml -w toml '.version' 
 
 build-main: switch-main build-dir

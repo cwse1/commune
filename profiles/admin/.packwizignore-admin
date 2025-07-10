@@ -1,0 +1,5 @@
+*.mrpack
+build/
+profiles/
+Makefile
+docs/
