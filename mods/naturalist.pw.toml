@@ -15,4 +15,3 @@ version = "tx891fzz"
 [option]
 optional = false
 default = true
-description = ''

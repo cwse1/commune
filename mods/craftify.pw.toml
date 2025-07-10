@@ -13,6 +13,6 @@ mod-id = "nrJ2NpD0"
 version = "re35cvGC"
 
 [option]
-optional = false
-default = true
-description = ''
+optional = true
+default = false
+description = "In-game music player"

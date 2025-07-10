@@ -15,4 +15,3 @@ version = "ezKSGafs"
 [option]
 optional = false
 default = true
-description = ''

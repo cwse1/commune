@@ -15,4 +15,3 @@ version = "J1toYNYJ"
 [option]
 optional = false
 default = true
-description = ''

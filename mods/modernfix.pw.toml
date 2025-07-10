@@ -11,4 +11,3 @@ hash = "3b715a799cf38adbcba9d6b08de2bf50965e5974fac3bc092920c829550f7042f5882d90
 [option]
 optional = false
 default = true
-description = ''

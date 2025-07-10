@@ -13,6 +13,6 @@ mod-id = "NK39zBp2"
 version = "dki8Ab2D"
 
 [option]
-optional = false
+optional = true
 default = true
-description = ''
+description = "Adds a blur effect to menus"

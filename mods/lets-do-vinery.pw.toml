@@ -15,4 +15,3 @@ version = "WdjalkV8"
 [option]
 optional = false
 default = true
-description = ''

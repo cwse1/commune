@@ -15,4 +15,3 @@ version = "NKdlDMoA"
 [option]
 optional = false
 default = true
-description = ''

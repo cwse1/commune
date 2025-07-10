@@ -13,6 +13,6 @@ mod-id = "bpii4Xsa"
 version = "zGytYDIS"
 
 [option]
-optional = false
+optional = true
 default = true
-description = ''
+description = "Adds lots of immersive ambient sounds"

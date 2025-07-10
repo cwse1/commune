@@ -15,4 +15,3 @@ version = "Ielhod3p"
 [option]
 optional = false
 default = true
-description = ''

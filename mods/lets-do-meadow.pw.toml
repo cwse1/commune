@@ -15,4 +15,3 @@ version = "phaFB3JP"
 [option]
 optional = false
 default = true
-description = ''

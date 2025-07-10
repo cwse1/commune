@@ -5,33 +5,65 @@ PACKWIZ := $(shell which packwiz)
 PROFILE_MAIN := profiles/main/
 PROFILE_LITE := profiles/lite/
 PROFILE_ADMIN := profiles/admin/
-CONFIG_MAIN := profiles/main/config/
-CONFIG_LITE:= profiles/lite/config/
-CONFIG_ADMIN:= profiles/admin/config/
-MODS_MAIN := profiles/main/mods/
-MODS_LITE:= profiles/lite/mods/
-MODS_ADMIN:= profiles/admin/mods/
 
 define main-configs
-	@for item in ${CONFIG_MAIN}*; do \
-		if [[ -d "$$item" ]]; then \
+	@for item in ${PROFILE_MAIN}config/*; do \
+		if [[ ! -f "$$item" ]]; then \
 			echo "dir"; \
 		else \
-			echo "$$item"; \
+			cp $$item config/$$(basename $${item/-main/}); \
+		fi \
+	done
+	@for item in ${PROFILE_MAIN}kubejs/config/*; do \
+		if [[ ! -f "$$item" ]]; then \
+			echo "dir"; \
+		else \
+			cp $$item kubejs/config/$$(basename $${item/-main/}); \
 		fi \
 	done
 endef
 
 define main-mods
+	@for item in ${PROFILE_MAIN}mods/*; do \
+		echo "$$item"; \
+	done
 endef
 
 define lite-configs
+	@for item in ${PROFILE_LITE}config/*; do \
+		if [[ ! -f "$$item" ]]; then \
+			echo "dir"; \
+		else \
+			cp $$item config/$$(basename $${item/-lite/}); \
+		fi \
+	done
+	@for item in ${PROFILE_LITE}kubejs/config/*; do \
+		if [[ ! -f "$$item" ]]; then \
+			echo "dir"; \
+		else \
+			cp $$item kubejs/config/$$(basename $${item/-lite/}); \
+		fi \
+	done
 endef
 
 define lite-mods
 endef
 
 define admin-configs
+	@for item in ${PROFILE_ADMIN}config/*; do \
+		if [[ ! -f "$$item" ]]; then \
+			echo "dir"; \
+		else \
+			cp $$item config/$$(basename $${item/-admin/}); \
+		fi \
+	done
+	@for item in ${PROFILE_ADMIN}kubejs/config/*; do \
+		if [[ ! -f "$$item" ]]; then \
+			echo "dir"; \
+		else \
+			cp $$item kubejs/config/$$(basename $${item/-admin/}); \
+		fi \
+	done
 endef
 
 define admin-mods
@@ -41,6 +73,11 @@ endef
 
 help:
 	@printf "${DASEL}\n"
+
+build-dir:
+	@if [[ ! -d "build" ]]; then \
+		mkdir build; \
+	fi
 
 switch-main:
 	@if [[ -z "${VERSION}" ]]; then \
@@ -66,10 +103,18 @@ switch-admin:
 	$(admin-mods)
 	@$(DASEL) put -t string -v "${VERSION}a" -f pack.toml -w toml '.version' 
 
-build-main: switch-main
+build-main: switch-main build-dir
+	@$(PACKWIZ) mr export
 
-build-lite: switch-lite
+build-lite: switch-lite build-dir
+	@$(PACKWIZ) mr export
+	$(switch-main)
 
-build-admin: switch-admin
+build-admin: switch-admin build-dir
+	@$(PACKWIZ) mr export
+	$(switch-main)
 
 build: build-main build-lite build-admin
+
+clean:
+	@rm -rf build/

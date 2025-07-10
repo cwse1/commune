@@ -15,4 +15,3 @@ version = "JapPN4QV"
 [option]
 optional = false
 default = true
-description = ''

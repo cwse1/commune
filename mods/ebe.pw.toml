@@ -15,4 +15,3 @@ version = "i3v1Skck"
 [option]
 optional = false
 default = true
-description = ''

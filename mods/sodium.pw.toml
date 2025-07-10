@@ -15,4 +15,3 @@ version = "OihdIimA"
 [option]
 optional = false
 default = true
-description = ''

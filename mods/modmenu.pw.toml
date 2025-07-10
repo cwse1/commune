@@ -15,4 +15,3 @@ version = "lEkperf6"
 [option]
 optional = false
 default = true
-description = ''

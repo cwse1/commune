@@ -15,4 +15,3 @@ version = "NovIXDxY"
 [option]
 optional = false
 default = true
-description = ''

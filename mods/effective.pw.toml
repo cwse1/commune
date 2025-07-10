@@ -13,6 +13,6 @@ mod-id = "pcPXJeZi"
 version = "vwgKoecR"
 
 [option]
-optional = false
+optional = true
 default = true
-description = ''
+description = "Visual effects"

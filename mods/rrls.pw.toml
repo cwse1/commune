@@ -13,6 +13,5 @@ mod-id = "ZP7xHXtw"
 version = "VHNE9K3D"
 
 [option]
-optional = false
+optional = true
 default = true
-description = ''

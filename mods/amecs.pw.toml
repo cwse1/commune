@@ -13,6 +13,6 @@ mod-id = "rcLriA4v"
 version = "HuXAp0GB"
 
 [option]
-optional = false
+optional = true
 default = true
-description = ''
+description = "Extra keybind functionality"

@@ -13,5 +13,5 @@ mod-id = "N6n5dqoA"
 version = "PJcr6FKc"
 
 [option]
-optional = false
+optional = true
 default = true
