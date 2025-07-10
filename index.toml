@@ -49,6 +49,10 @@ file = "config/lodestone-client.toml"
 hash = "a39967153b308fff6652f74782819fedec036a026b9253bb061a16c89e3e9b1a"
 
 [[files]]
+file = "config/minihud.json"
+hash = "b55f90378a16ca741d2adc1e64612bdf8249b025c637ddb13ddcc0ba0ea9755c"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "7d002346b9c5a28c45232f116b4fdfcec48f1ba3959a971212a426ab1e8e93f0"
 
@@ -79,6 +83,10 @@ hash = "c94ef7e24be5a28874251d6added3e5d6d2a31fe41efeea9972876b72c5d9f56"
 [[files]]
 file = "config/servercore/config.yml"
 hash = "abf442c6f52eded218a741f28a7340cdf8565cb20bcf60bd018bb3c1e97b4fa4"
+
+[[files]]
+file = "config/tweakeroo.json"
+hash = "e754e061e3371b1683af8bec1d5896e7a019484e838ff5acb00311dfb8e05644"
 
 [[files]]
 file = "config/wildernature.json"
@@ -297,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "6de981e00617cc44433d1f91d7d8efe5dd6113fe4ffad66979bf5e127cab6398"
+hash = "9298b0cbef1266de1cb0871f926f93a584c31969b65f0aed9e65383fa7606a5c"
 metafile = true
 
 [[files]]
@@ -542,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "3762f947d30319fec94d65d16766e8815c2716d5210ed81d197f5df04fb3f6c0"
+hash = "e1ad6cc6746654a5f346610f6c96a6265ad245513b29269b388b207c5dddd0d7"
 metafile = true
 
 [[files]]
@@ -597,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "477bccd098e943a389096837292683231c1f66e9cd73eee37b8b4b257e5180de"
+hash = "dfb85bfb14d50ae5853c5c769883354566c39f995e1e2ba11a96d379b2969bc8"
 metafile = true
 
 [[files]]
@@ -657,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/fadeless.pw.toml"
-hash = "c28b4282466cbac8f1f457031ec6c0f1af5c1da497a2db64b71da30a3ca755ef"
+hash = "45de7cf32a153bc60bdc195cf1a8c4e86f5ab50dc73f89f7083f50f123640e45"
 metafile = true
 
 [[files]]
@@ -677,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "7326ca5d81761888e1184adc71925aefb92f62b07811b747c35f646bdff144ed"
+hash = "6c67a1f52f6d9f0ce9979a65d27b5400d741e97e589a3c3a72f75feb20c3d455"
 metafile = true
 
 [[files]]
@@ -762,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "aa85993bf75beaf7e6398c62eb7cbadd3a73bab89314b90133d1ecc11a1d207a"
+hash = "afb1ff8982c0d029cdb63c21e7929ea2d9d7e125cc91c259b073b2f169508f8b"
 metafile = true
 
 [[files]]
@@ -906,6 +914,11 @@ hash = "441813f7b8c86efc28e0afabcf1544779547f5e45bbd0f307a2da14e0a002315"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "ec6f8613284bd8a6169ada8c4e2d22826f97c847428cb7228d05dfd35793dafa"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "e7f91d7c1ab25d9d1ed2ca691d4f907d741c68f850f4c8bece36e0f85e04bf8e"
 metafile = true
@@ -918,6 +931,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "acc78bf128f2bcd45e07367e484c695ef131fd89dc9f646749d3f2d109fab5fe"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "81172db9fb683cabf90d346e15ce7d58d9a22c8f734281fc04945f2aa0ce6835"
 metafile = true
 
 [[files]]
@@ -1066,6 +1084,11 @@ hash = "712924321729745300fedfffeea5bed1b172c41f07515c1d4d41bca6ce8585cb"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "f4fa233e63d707e22849809eda9b888d5280efb79dddfa00861040b567f3a3c9"
+metafile = true
+
+[[files]]
 file = "mods/promenade.pw.toml"
 hash = "316be3c1a3ffcc1ff94d8346b953e53e1eda4163d04cfff0577361e49017599d"
 metafile = true
@@ -1096,13 +1119,18 @@ hash = "94dec068d3be58ed6062fc548a55e7c5b6f1044ffa766661c49c875b60956ec2"
 metafile = true
 
 [[files]]
+file = "mods/rei-custom-command.pw.toml"
+hash = "a41000d3db809110510529d4b13f5170e2e4820fc0c254cc0bb508e7322aa379"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "24df5ed0375a5d20a5f054c548ee9eb840e82ffbd01e934152238978d826afd9"
 metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "7a74ebd270653d3be338ea84112de965a59a03afbf3361f11587bef603cdb9a1"
+hash = "327581645bd194c99d774b02912b9a6099063b5b5d771909200daf47a3128b49"
 metafile = true
 
 [[files]]
@@ -1137,7 +1165,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "17f08b6224ed5666180a57648a67ea2b418a098d9fb5b6cb8c85c65f2daf16c4"
+hash = "18c263f702aa451ddb69755e5d73ff105c2e58d58f0cd89e46809f99eab21787"
 metafile = true
 
 [[files]]
@@ -1172,7 +1200,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinswapper.pw.toml"
-hash = "3743ecd02a03524fbb47f5f56bd807428cb93e611197cead4dc3fd8fc1767066"
+hash = "28f68308e5cdca85e672dd9baa11235e0dc45b60442cae124a7500bf16a2345d"
 metafile = true
 
 [[files]]
@@ -1271,13 +1299,18 @@ hash = "6125b5e7ae6fb6b08ed5fec764402e93daa0fcecb62fe2e6e048b75b3cf5c75e"
 metafile = true
 
 [[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "6b7b442aa83680cb45fa9b0828ae5990b75eabeb6efc45fd2adccece36834b49"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "a90cee7682136ebf23585136c74c089d1c268cfd3c194644a86351d915d364cf"
 metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "8c5320ee77532341348d91ea40dbdb2fdabc187e9742db1fd7d5364fc6c6146d"
+hash = "314c4ce7384022c1ed35611c7504d96bef817f725ca985f1c894cdde7a3d891d"
 metafile = true
 
 [[files]]
