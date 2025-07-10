@@ -10,8 +10,8 @@ hash = "7325338b80a637dab01e67ed685204ed092b3420c295e529b77ef1607adfdc326489def9
 [update]
 [update.modrinth]
 mod-id = "N6n5dqoA"
+version = "PJcr6FKc"
 
 [option]
 optional = false
 default = true
-description = ''

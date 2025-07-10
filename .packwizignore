@@ -2,6 +2,7 @@
 build/
 profiles/
 Makefile
+docs/
 
 # admin only
 mods/minihud*
