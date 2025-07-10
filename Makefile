@@ -1,5 +1,6 @@
 DASEL := $(shell which dasel)
 PACKWIZ := $(shell which packwiz)
+MAKE := $(shell which make)
 # SHELL := /bin/bash
 
 PROFILE_MAIN := profiles/main/
@@ -120,6 +121,7 @@ switch-admin:
 		echo "Provide a version number" && exit 1; \
 	fi
 	$(admin-configs)
+	$(main-mods)
 	@$(DASEL) put -t string -v "${VERSION}a" -f pack.toml -w toml '.version' 
 
 build-main: switch-main build-dir
@@ -127,13 +129,12 @@ build-main: switch-main build-dir
 
 build-lite: switch-lite build-dir
 	@$(PACKWIZ) mr export
-	$(switch-main)
 
 build-admin: switch-admin build-dir
 	@$(PACKWIZ) mr export
-	$(switch-main)
 
 build: build-main build-lite build-admin
+	@$(MAKE) switch-main
 
 clean:
 	@rm -rf build/

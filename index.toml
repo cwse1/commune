@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "7c1ea48f61553ef76e7a5ecb1177de152e741518e927603b9366675769f6a442"
 
@@ -305,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "9298b0cbef1266de1cb0871f926f93a584c31969b65f0aed9e65383fa7606a5c"
+hash = "8ffe5f5c6c77049aa9adda9003a1d8f860b92eb781ff0b181f8083a3e3b51a87"
 metafile = true
 
 [[files]]
@@ -550,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "e1ad6cc6746654a5f346610f6c96a6265ad245513b29269b388b207c5dddd0d7"
+hash = "03e83c466eddfe02bdbb34f6947dbd4a7dabd233e332862fa4b0f4a2f75c9180"
 metafile = true
 
 [[files]]
@@ -605,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "dfb85bfb14d50ae5853c5c769883354566c39f995e1e2ba11a96d379b2969bc8"
+hash = "5c3f8c639ae7458f758b182679e23f9be4e95c88909364e5ff930468c6e54cea"
 metafile = true
 
 [[files]]
@@ -665,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/fadeless.pw.toml"
-hash = "45de7cf32a153bc60bdc195cf1a8c4e86f5ab50dc73f89f7083f50f123640e45"
+hash = "ab171f53ca66f55cc12ca081d128f3a3e0b975eef03becd92c9bcdcde093ee9c"
 metafile = true
 
 [[files]]
@@ -685,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "6c67a1f52f6d9f0ce9979a65d27b5400d741e97e589a3c3a72f75feb20c3d455"
+hash = "0b6043cd6becb09f0956d08b051573a7d9609aa501195dfdfd607e9097679d12"
 metafile = true
 
 [[files]]
@@ -770,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "afb1ff8982c0d029cdb63c21e7929ea2d9d7e125cc91c259b073b2f169508f8b"
+hash = "39231d2c977ca146c37e0deb8fcf2d1c3b01026376bbe10dabd55cf487dc58f0"
 metafile = true
 
 [[files]]
@@ -1165,7 +1161,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "18c263f702aa451ddb69755e5d73ff105c2e58d58f0cd89e46809f99eab21787"
+hash = "a40051b29d5906d58d1dab56bf36224483899df9633ac4086029f93a9cafcaec"
 metafile = true
 
 [[files]]
@@ -1200,7 +1196,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinswapper.pw.toml"
-hash = "28f68308e5cdca85e672dd9baa11235e0dc45b60442cae124a7500bf16a2345d"
+hash = "9c8954d0256e5692fe2c40d5ba4e955ad1ff14f16d9da15ca9abb16ecd531017"
 metafile = true
 
 [[files]]
@@ -1310,7 +1306,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "314c4ce7384022c1ed35611c7504d96bef817f725ca985f1c894cdde7a3d891d"
+hash = "6fa952048c40293b6d37774f273807317e6838347cf8c820520c155e497788c5"
 metafile = true
 
 [[files]]
