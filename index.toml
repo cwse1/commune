@@ -106,7 +106,7 @@ hash = "839082012f777a08328e3d4b47e3b619bb49e987146e5e1d069736ddce5f3a68"
 
 [[files]]
 file = "kubejs/assets/powah/textures/entity/drill/uraninite_raw.png"
-hash = "f1b7b2531f73c136f5deabe8ed861a40a42ad6bffb2c59b45d5a76024c976d74"
+hash = "4014c2c28e20f1c502ecc74047c2cb49163a41c15a6d0bd4a7a0e8d55c7d91d8"
 
 [[files]]
 file = "kubejs/config/common.properties"
