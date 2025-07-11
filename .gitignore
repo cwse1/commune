@@ -1,4 +1,4 @@
 *.mrpack
 build/
 docs/
-*.zip
+resourcepacks/*.zip
