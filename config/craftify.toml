@@ -1,7 +1,7 @@
 [general]
 announce_new_song = 0
 link_mode = 1
-first_time = false
+first_time = true
 mod_mode = -1
 notification_album_art_location = 1
 music_service = "spotify"

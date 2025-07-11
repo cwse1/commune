@@ -14,5 +14,5 @@ version = "HuXAp0GB"
 
 [option]
 optional = true
-default = true
 description = "Extra keybind functionality"
+default = true

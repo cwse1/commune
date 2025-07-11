@@ -95,7 +95,7 @@ endef
 help:
 	@printf "${DASEL}\n"
 
-build-dir:
+__build-dir:
 	@if [[ ! -d "build" ]]; then \
 		mkdir build; \
 	fi
@@ -124,16 +124,16 @@ switch-admin:
 	$(main-mods)
 	@$(DASEL) put -t string -v "${VERSION}a" -f pack.toml -w toml '.version' 
 
-build-main: switch-main build-dir
+__build-main: switch-main __build-dir
 	@$(PACKWIZ) mr export
 
-build-lite: switch-lite build-dir
+__build-lite: switch-lite __build-dir
 	@$(PACKWIZ) mr export
 
-build-admin: switch-admin build-dir
+__build-admin: switch-admin __build-dir
 	@$(PACKWIZ) mr export
 
-build: build-main build-lite build-admin
+build: clean __build-main __build-lite __build-admin
 	@$(MAKE) switch-main
 
 clean:

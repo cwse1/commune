@@ -1,16 +1,16 @@
-author = 'cwse'
-name = 'build/Commune'
-pack-format = 'packwiz:1.1.0'
-version = '2.0.3'
+name = "build/Commune"
+author = "cwse"
+version = "2.0.3"
+pack-format = "packwiz:1.1.0"
 
 [index]
-  file = 'index.toml'
-  hash = '4ee98f933e482c6a35936bfd9c5505e68fec198ff53d3f5f0ecea6d1b3f162f6'
-  hash-format = 'sha256'
-
-[options]
-  acceptable-game-versions = []
+file = "index.toml"
+hash-format = "sha256"
+hash = "0a6e6f03089a32d4647e0c08d80e80a54c5ec18bfcedea3f2e2028b5a6d9deda"
 
 [versions]
-  minecraft = '1.20.1'
-  quilt = '0.29.0'
+minecraft = "1.20.1"
+quilt = "0.29.0"
+
+[options]
+acceptable-game-versions = []

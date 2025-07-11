@@ -14,5 +14,5 @@ version = "zGytYDIS"
 
 [option]
 optional = true
-default = true
 description = "Adds lots of immersive ambient sounds"
+default = true

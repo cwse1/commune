@@ -218,7 +218,7 @@
     "gammaValueOriginal": 0.5,
     "hotbarScrollCurrentRow": 3,
     "slimeBlockSlipperinessOriginal": 0.800000011920929,
-    "snapAimLastYaw": 0.0
+    "snapAimLastYaw": 90.0
   },
   "Lists": {
     "blockTypeBreakRestrictionListType": "blacklist",
@@ -754,7 +754,7 @@
     "tweakPeriodicHoldAttack": false,
     "tweakPeriodicHoldUse": false,
     "tweakPermanentSneak": false,
-    "tweakPermanentSprint": true,
+    "tweakPermanentSprint": false,
     "tweakPlacementGrid": false,
     "tweakPlacementLimit": false,
     "tweakPlacementRestriction": false,
@@ -789,7 +789,7 @@
       "keys": ""
     },
     "tweakAfterClicker": {
-      "keys": "X,BUTTON_2"
+      "keys": "X,LEFT_ALT,BUTTON_2"
     },
     "tweakAimLock": {
       "keys": "X,COMMA"
@@ -882,10 +882,10 @@
       "keys": ""
     },
     "tweakHoldAttack": {
-      "keys": ""
+      "keys": "X,BUTTON_1"
     },
     "tweakHoldUse": {
-      "keys": ""
+      "keys": "X,BUTTON_2"
     },
     "tweakHotbarScroll": {
       "keys": ""

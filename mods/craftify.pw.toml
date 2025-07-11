@@ -14,5 +14,4 @@ version = "re35cvGC"
 
 [option]
 optional = true
-default = false
 description = "In-game music player"

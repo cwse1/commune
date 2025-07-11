@@ -45,16 +45,16 @@ file = "config/lodestone-client.toml"
 hash = "a39967153b308fff6652f74782819fedec036a026b9253bb061a16c89e3e9b1a"
 
 [[files]]
-file = "config/minihud.json"
-hash = "b55f90378a16ca741d2adc1e64612bdf8249b025c637ddb13ddcc0ba0ea9755c"
-
-[[files]]
 file = "config/modmenu.json"
 hash = "7d002346b9c5a28c45232f116b4fdfcec48f1ba3959a971212a426ab1e8e93f0"
 
 [[files]]
 file = "config/notenoughanimations.json"
 hash = "17f4c998834d45ceb10d7d689c6d72e79b564fca370c15740b90a7454c0f0139"
+
+[[files]]
+file = "config/ok_zoomer/config.toml"
+hash = "1b93174fa6951724d5a078a20e4413d3e4134f5ececae1f4a6980e01033fc425"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
@@ -79,10 +79,6 @@ hash = "c94ef7e24be5a28874251d6added3e5d6d2a31fe41efeea9972876b72c5d9f56"
 [[files]]
 file = "config/servercore/config.yml"
 hash = "abf442c6f52eded218a741f28a7340cdf8565cb20bcf60bd018bb3c1e97b4fa4"
-
-[[files]]
-file = "config/tweakeroo.json"
-hash = "e754e061e3371b1683af8bec1d5896e7a019484e838ff5acb00311dfb8e05644"
 
 [[files]]
 file = "config/wildernature.json"
@@ -162,7 +158,7 @@ hash = "252cfa8b3972b720a408ead67929852d923dc21d10c8caadf24043ebd433479c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "463e53f7787a017ebdaf1df5ee5bac996a91eadd992e349e3e43d9b0c8c3a490"
+hash = "ff6f8b46441d2b259c173a9fbf3dfd639b0506d347e0d69d1f278630952f9961"
 metafile = true
 
 [[files]]
@@ -201,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "019775bd42ba242b75778542b9a3b131fc23338deefbd204a6bb1c428e5b6fbf"
+hash = "b1d0fa0200825de9b712dd3a7d0b7e57320c1c7425fd82bfb07eec91a9455c73"
 metafile = true
 
 [[files]]
@@ -371,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/charmonium.pw.toml"
-hash = "213fde5326f25a41354787207530295fde212d892d01b96159de052f9cd4e7eb"
+hash = "5dd64b6f817f1c683ac688bbd77c93b279f7a7de7aa27e4d3614b2e54c40c5c6"
 metafile = true
 
 [[files]]
@@ -436,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftify.pw.toml"
-hash = "9c8b53cb1de25240dc0fc14d7f4fc82dd3d86b9cb0457e8d325bc7c37c11ae72"
+hash = "71139c712996d5a6f8c0a991f3a579651b1365f95f29424cea609d624702cd14"
 metafile = true
 
 [[files]]
@@ -910,11 +906,6 @@ hash = "441813f7b8c86efc28e0afabcf1544779547f5e45bbd0f307a2da14e0a002315"
 metafile = true
 
 [[files]]
-file = "mods/malilib.pw.toml"
-hash = "ec6f8613284bd8a6169ada8c4e2d22826f97c847428cb7228d05dfd35793dafa"
-metafile = true
-
-[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "e7f91d7c1ab25d9d1ed2ca691d4f907d741c68f850f4c8bece36e0f85e04bf8e"
 metafile = true
@@ -927,11 +918,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "acc78bf128f2bcd45e07367e484c695ef131fd89dc9f646749d3f2d109fab5fe"
-metafile = true
-
-[[files]]
-file = "mods/minihud.pw.toml"
-hash = "81172db9fb683cabf90d346e15ce7d58d9a22c8f734281fc04945f2aa0ce6835"
 metafile = true
 
 [[files]]
@@ -971,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "dddbb83d716d7ceeb75ec00dec16606c33d4515a2f71a7e023329c05b79d3f08"
+hash = "0565e295458ce0c516c9957f65f705eae49021f40763995ac1cbaa941d3061a9"
 metafile = true
 
 [[files]]
@@ -1080,11 +1066,6 @@ hash = "712924321729745300fedfffeea5bed1b172c41f07515c1d4d41bca6ce8585cb"
 metafile = true
 
 [[files]]
-file = "mods/probejs.pw.toml"
-hash = "f4fa233e63d707e22849809eda9b888d5280efb79dddfa00861040b567f3a3c9"
-metafile = true
-
-[[files]]
 file = "mods/promenade.pw.toml"
 hash = "316be3c1a3ffcc1ff94d8346b953e53e1eda4163d04cfff0577361e49017599d"
 metafile = true
@@ -1112,11 +1093,6 @@ metafile = true
 [[files]]
 file = "mods/rei-collapsible-entries.pw.toml"
 hash = "94dec068d3be58ed6062fc548a55e7c5b6f1044ffa766661c49c875b60956ec2"
-metafile = true
-
-[[files]]
-file = "mods/rei-custom-command.pw.toml"
-hash = "a41000d3db809110510529d4b13f5170e2e4820fc0c254cc0bb508e7322aa379"
 metafile = true
 
 [[files]]
@@ -1191,7 +1167,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "226dcd4478b1de549b8511b8ff926f05ebcf8b7546d1eb088cc98cd8aad71878"
+hash = "8942e6f28b73b6cb55693396f0a3691cbc793ed189247e3402ba466dd96ffbd2"
 metafile = true
 
 [[files]]
@@ -1292,11 +1268,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "6125b5e7ae6fb6b08ed5fec764402e93daa0fcecb62fe2e6e048b75b3cf5c75e"
-metafile = true
-
-[[files]]
-file = "mods/tweakeroo.pw.toml"
-hash = "6b7b442aa83680cb45fa9b0828ae5990b75eabeb6efc45fd2adccece36834b49"
 metafile = true
 
 [[files]]
