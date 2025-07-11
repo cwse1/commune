@@ -90,51 +90,54 @@ endef
 # 	done
 # endef
 
-.PHONY: help 
+# .PHONY: help 
 
-help:
-	@printf "${DASEL}\n"
+# help:
+# 	@printf "${DASEL}\n"
 
 __build-dir:
 	@if [[ ! -d "build" ]]; then \
 		mkdir build; \
 	fi
 
-switch-main:
+__switch-main:
 	@if [[ -z "${VERSION}" ]]; then \
 		echo "Provide a version number" && exit 1; \
 	fi
 	$(main-configs)
 	$(main-mods)
 	@$(DASEL) put -t string -v "${VERSION}" -f pack.toml -w toml '.version' 
+	@$(PACKWIZ) refresh
 
-switch-lite:
+__switch-lite:
 	@if [[ -z "${VERSION}" ]]; then \
 		echo "Provide a version number" && exit 1; \
 	fi
 	$(lite-configs)
 	$(lite-mods)
 	@$(DASEL) put -t string -v "${VERSION}l" -f pack.toml -w toml '.version' 
+	@$(PACKWIZ) refresh
 
-switch-admin:
+__switch-admin:
 	@if [[ -z "${VERSION}" ]]; then \
 		echo "Provide a version number" && exit 1; \
 	fi
 	$(admin-configs)
 	$(main-mods)
 	@$(DASEL) put -t string -v "${VERSION}a" -f pack.toml -w toml '.version' 
+	@$(PACKWIZ) refresh
 
-__build-main: switch-main __build-dir
+__build-main: __switch-main __build-dir
 	@$(PACKWIZ) mr export
 
-__build-lite: switch-lite __build-dir
+__build-lite: __switch-lite __build-dir
 	@$(PACKWIZ) mr export
 
-__build-admin: switch-admin __build-dir
+__build-admin: __switch-admin __build-dir
 	@$(PACKWIZ) mr export
 
 build: clean __build-main __build-lite __build-admin
-	@$(MAKE) switch-main
+	@$(MAKE) __switch-main
 
 clean:
 	@rm -rf build/

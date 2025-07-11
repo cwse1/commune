@@ -22,7 +22,7 @@ hash = "77b6042d3ea7278532f8df2e6f3c80b0b0ad7985eaf014beea5bec77f028b139"
 
 [[files]]
 file = "config/craftify.toml"
-hash = "5ad1865a9dd27ac3e033651172799d8664daf3d7dcb93baa94daac78c5ad8194"
+hash = "2eb12ce211d960f6f7be402ed8edec182d3a95bc7e3dba1ffbb45e67c5c64f24"
 
 [[files]]
 file = "config/create-server.toml"
