@@ -1,0 +1,26 @@
+*.mrpack
+build/
+profiles/
+Makefile
+docs/
+README.md
+
+# remove from lite
+mods/blur-plus*
+mods/distanthorizons*
+mods/effective*
+mods/fadeless*
+mods/iris*
+mods/replaymod*
+mods/rrls*
+mods/visuality*
+
+# admin only
+mods/minihud*
+mods/malilib*
+mods/tweakeroo*
+mods/probejs*
+mods/rei-custom*
+config/minihud.json
+config/tweakeroo.json
+resourcepacks/

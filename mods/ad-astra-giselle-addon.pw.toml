@@ -1,16 +1,16 @@
 name = "Ad-Astra: Giselle Addon"
-filename = "Ad-Astra-Giselle-Addon-fabric-1.20.1-6.19.jar"
+filename = "Ad-Astra-Giselle-Addon-fabric-1.20.1-6.16.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XQDxCBVw/versions/GN1gqTEK/Ad-Astra-Giselle-Addon-fabric-1.20.1-6.19.jar"
+url = "https://cdn.modrinth.com/data/XQDxCBVw/versions/76r3ON9L/Ad-Astra-Giselle-Addon-fabric-1.20.1-6.16.jar"
 hash-format = "sha512"
-hash = "019b87bfc8424d294739fc24bf36db93b1521ff4519e97a8f2101c7d106e59c9a9c514bcc0e7a431cc76e0bcf889e52fe25276e9eee0ac87d3c5e5402bcf0c30"
+hash = "166692bbfd77b47fc348415b72ff26f19be66edb1de3f99905928b0fb9c9ddc7f75df4444d9395c220c765622be252e3b1fce7c0f344a956f4c2dc9d4a3db8d7"
 
 [update]
 [update.modrinth]
 mod-id = "XQDxCBVw"
-version = "GN1gqTEK"
+version = "76r3ON9L"
 
 [option]
 optional = false
