@@ -3,7 +3,7 @@
 	"giveUnnamedAreasRandomName": true,
 	// The radius in blocks around the player in which to check for area signs.
 	// min: 0, max: 1000
-	"radiusAroundPlayerToCheckForSigns": 100,
+	"radiusAroundPlayerToCheckForSigns": 30,
 	// The default radius for areas when it's left empty on the sign. It will be added automatically.
 	// min: 0, max: 1000
 	"defaultAreaRadius": 30,

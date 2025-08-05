@@ -1,16 +1,16 @@
 name = "[Let's Do] Candlelight"
-filename = "letsdo-candlelight-fabric-2.0.4.jar"
+filename = "letsdo-candlelight-fabric-2.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qwbArkQk/versions/FdI5FhHe/letsdo-candlelight-fabric-2.0.4.jar"
+url = "https://cdn.modrinth.com/data/qwbArkQk/versions/RUk2PHO1/letsdo-candlelight-fabric-2.0.5.jar"
 hash-format = "sha512"
-hash = "20047cb75d7c88332ae4a703473dbe6da79a5303c52bc332acb9733ba2ff1f05005ebc07b74422921b395169b3b40c47721a5a87e2333026d7768bfbc763ec7b"
+hash = "6a2daf556a3f0a665d45e9ee560551e955d2e340dd05e5d778db8d371d320f9a629e4a813465d378e5ac9ca07e63b96a2eaaa01f3079dbc7455b274559497a56"
 
 [update]
 [update.modrinth]
 mod-id = "qwbArkQk"
-version = "FdI5FhHe"
+version = "RUk2PHO1"
 
 [option]
 optional = false

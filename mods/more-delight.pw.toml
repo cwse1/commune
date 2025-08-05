@@ -1,16 +1,16 @@
 name = "More Delight"
-filename = "moredelight-25.01.13-1.20-fabric.jar"
+filename = "moredelight-25.07.28-1.20-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/znHQQtuU/versions/OKjrU0qy/moredelight-25.01.13-1.20-fabric.jar"
+url = "https://cdn.modrinth.com/data/znHQQtuU/versions/wU4RoctO/moredelight-25.07.28-1.20-fabric.jar"
 hash-format = "sha512"
-hash = "e61919a0d05fbbf0a8e61813bf7b205948b250af738388874496f5c8366f6ad18fde38ba38b4420a97403cd45ff7b7334815731d4ae572a726d271f427d04b86"
+hash = "ab5c9ba61dd4bd1f960c904b1450a3b2cb5feb1013e13c92462c206068aecc89ba875d99d584795d32be000d08aa6b4bd0b0e8db902b162efd6acaa9f3912c46"
 
 [update]
 [update.modrinth]
 mod-id = "znHQQtuU"
-version = "OKjrU0qy"
+version = "wU4RoctO"
 
 [option]
 optional = false
