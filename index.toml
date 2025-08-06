@@ -122,7 +122,7 @@ hash = "7f8016a7ecd9ac6c3ad45195a4b20d9aff10c5140aec73f5087525913d98c37f"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "bd0da356d7f25d2a46e0f1fe9d802b02b158a32988ffc4dfbb3d023d225dd55a"
+hash = "7b8806c0458b9b589424636f20a87245d70020842ddaf9fa05bc41d11d2e660c"
 
 [[files]]
 file = "kubejs/config/dev.properties"
