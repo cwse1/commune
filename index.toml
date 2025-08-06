@@ -1,32 +1,36 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "7c1ea48f61553ef76e7a5ecb1177de152e741518e927603b9366675769f6a442"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
 
 [[files]]
 file = "config/areas.json5"
-hash = "2037b1281987d11923d81aa6fb3468706cc2146fe6d5672ae8c0a551211bef49"
+hash = "9d6cbd3268125296d219aae8aaf8feeba8425d6087eec3ebf36af765fcbb213b"
 
 [[files]]
 file = "config/blockmeter.toml"
 hash = "36675434e6eafe5c0f723550bd7b45410f12c1ecca0fd3f53d3d65f2cc075e52"
 
 [[files]]
+file = "config/bloomingnature.json"
+hash = "7f0850f2b649f5fe81d392a891cdf3e1dcdd256809fa48887651197f130ab714"
+
+[[files]]
 file = "config/bobby.conf"
 hash = "77b6042d3ea7278532f8df2e6f3c80b0b0ad7985eaf014beea5bec77f028b139"
 
 [[files]]
-file = "config/craftify.toml"
-hash = "2eb12ce211d960f6f7be402ed8edec182d3a95bc7e3dba1ffbb45e67c5c64f24"
-
-[[files]]
 file = "config/create-server.toml"
 hash = "051893278b2a116799cb1d3211d3eb911ae4b9acd715bc33b8ae4849a4e1ce12"
+
+[[files]]
+file = "config/do_a_barrel_roll-client.json"
+hash = "22d6678a60c101e625f1eeea6179f08e9063bf4b0523372482956d0c283c5964"
+
+[[files]]
+file = "config/effective.json"
+hash = "9e65552374db23820a1a4bf347dc5aec6b8e19c4f5c8db898f6cf4ad8438e34b"
 
 [[files]]
 file = "config/estrogen-client.toml"
@@ -81,12 +85,20 @@ file = "config/servercore/config.yml"
 hash = "abf442c6f52eded218a741f28a7340cdf8565cb20bcf60bd018bb3c1e97b4fa4"
 
 [[files]]
+file = "config/terrestria/biome.json"
+hash = "f15bf4b808b473ff33da6ee22887c5fbbf9666ff79e7df547254ecfe64b2b013"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "c5e90a25630c20feee9a4ad3a9a9b3ffe8b800e30f112535d8f6781234ec1790"
+
+[[files]]
 file = "config/wildernature.json"
 hash = "ebef10b2bbbc025766fb34b1cd31c46f3fbc3d35454144aa8e2a3dca3f33a01b"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "e5a9d4212bafb7fbf0b182a16ee5b38cca691bde058d6c47850e953d9742dce3"
+hash = "13a516723ac00e8cb20b98608839df2a3e466530cc2ff2528e497463045539c6"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -110,7 +122,7 @@ hash = "7f8016a7ecd9ac6c3ad45195a4b20d9aff10c5140aec73f5087525913d98c37f"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "3de89ed2126000b72352e34b00834532ed62bc5861cb98e23d1ae24dccc1a53b"
+hash = "bd0da356d7f25d2a46e0f1fe9d802b02b158a32988ffc4dfbb3d023d225dd55a"
 
 [[files]]
 file = "kubejs/config/dev.properties"
