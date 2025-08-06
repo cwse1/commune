@@ -90,7 +90,7 @@ hash = "f15bf4b808b473ff33da6ee22887c5fbbf9666ff79e7df547254ecfe64b2b013"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "c5e90a25630c20feee9a4ad3a9a9b3ffe8b800e30f112535d8f6781234ec1790"
+hash = "cc08829baa0e2df2fdf545e116ce4ff85496cd630e108e5ba0a42daaef525ec0"
 
 [[files]]
 file = "config/wildernature.json"

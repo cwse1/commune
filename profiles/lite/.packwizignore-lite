@@ -6,6 +6,7 @@ docs/
 README.md
 
 # remove from lite
+mods/axiom*
 mods/blur-plus*
 mods/distanthorizons*
 mods/effective*

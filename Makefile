@@ -36,6 +36,7 @@ define main-mods
 endef
 
 define lite-configs
+	@cp ${PROFILE_LITE}.packwizignore-lite .packwizignore
 	@for item in ${PROFILE_LITE}config/*; do \
 		if [[ ! -f "$$item" ]]; then \
 			echo "No configs to copy"; \
