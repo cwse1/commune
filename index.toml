@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "0799a89163af0d0d119c148251e12365870836f8bec54af09528158e95b1cd9b"
+hash = "437c79f4d3dd3c9f765271c3c56fcd524cc113193611d9e9fe2f34dc9944fa01"
 metafile = true
 
 [[files]]
@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "4f861e55fe66c1ca195421e0fedea524b829564e85df52219118a40159679166"
+hash = "052b977c7398bb4485fc3092f842f8a89e1c8d6e687e187c233e617c3933cc6f"
 metafile = true
 
 [[files]]
@@ -869,7 +869,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "a15b970b70d5957c2ce0ff570f05f5dbfe44bebecb4848776dbd5b7d7ef6914c"
+hash = "116b6598124df011841e01114420d431f6320d7aee78ffd12907b1692197d01f"
 metafile = true
 
 [[files]]
@@ -884,7 +884,7 @@ metafile = true
 
 [[files]]
 file = "mods/letsdo-wildernature.pw.toml"
-hash = "201027ab3f9863061e2ba9b661472b33117016f5dd6d52af7fdb5440d265042b"
+hash = "a3ae04f47a5ea41bcdb31ef5657698b84680e45b7d3125488c3851f004e48c1b"
 metafile = true
 
 [[files]]
