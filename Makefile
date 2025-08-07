@@ -2,62 +2,34 @@ DASEL := $(shell which dasel)
 PACKWIZ := $(shell which packwiz)
 MAKE := $(shell which make)
 
-PROFILE_MAIN := profiles/main/
-PROFILE_LITE := profiles/lite/
-PROFILE_ADMIN := profiles/admin/
-
-define main-configs
-	@cp ${PROFILE_MAIN}.packwizignore-main .packwizignore
-	@for item in ${PROFILE_MAIN}config/*; do \
+define switch-configs
+	@cp profiles/$(1)/.packwizignore-$(1) .packwizignore
+	@for item in profiles/$(1)/config/*; do \
 		if [[ ! -f "$$item" ]]; then \
 			echo "No configs to copy"; \
 		else \
-			cp $$item config/$$(basename $${item/-main/}); \
+			cp $$item config/$$(basename $${item/-$(1)/}); \
 		fi \
 	done
-	@for item in ${PROFILE_MAIN}kubejs/config/*; do \
+	@for item in profiles/$(1)/kubejs/config/*; do \
 		if [[ ! -f "$$item" ]]; then \
 			echo "No configs to copy"; \
 		else \
-			cp $$item kubejs/config/$$(basename $${item/-main/}); \
+			cp $$item kubejs/config/$$(basename $${item/-$(1)/}); \
 		fi \
 	done
 endef
 
-define lite-configs
-	@cp ${PROFILE_LITE}.packwizignore-lite .packwizignore
-	@for item in ${PROFILE_LITE}config/*; do \
-		if [[ ! -f "$$item" ]]; then \
-			echo "No configs to copy"; \
-		else \
-			cp $$item config/$$(basename $${item/-lite/}); \
-		fi \
-	done
-	@for item in ${PROFILE_LITE}kubejs/config/*; do \
-		if [[ ! -f "$$item" ]]; then \
-			echo "No configs to copy"; \
-		else \
-			cp $$item kubejs/config/$$(basename $${item/-lite/}); \
-		fi \
-	done
-endef
-
-define admin-configs
-	@cp ${PROFILE_ADMIN}.packwizignore-admin .packwizignore
-	@for item in ${PROFILE_ADMIN}config/*; do \
-		if [[ ! -f "$$item" ]]; then \
-			echo "No configs to copy"; \
-		else \
-			cp $$item config/$$(basename $${item/-admin/}); \
-		fi \
-	done
-	@for item in ${PROFILE_ADMIN}kubejs/config/*; do \
-		if [[ ! -f "$$item" ]]; then \
-			echo "No configs to copy"; \
-		else \
-			cp $$item kubejs/config/$$(basename $${item/-admin/}); \
-		fi \
-	done
+define switch_profile
+	@if [[ -z "${VERSION}" ]]; then \
+		echo "Provide a version number" && exit 1; \
+	fi
+	$(call switch-configs,$(1))
+	@if [[ ! $(1) == m* ]]; then \
+		$(DASEL) put -t string -v "${VERSION}$(shell echo $(1) | head -c 1)" -f pack.toml -w toml '.version'; \
+	else \
+		$(DASEL) put -t string -v "${VERSION}" -f pack.toml -w toml '.version'; \
+	fi
 endef
 
 # .PHONY: help 
@@ -71,27 +43,15 @@ __build-dir:
 	fi
 
 __switch-main:
-	@if [[ -z "${VERSION}" ]]; then \
-		echo "Provide a version number" && exit 1; \
-	fi
-	$(main-configs)
-	@$(DASEL) put -t string -v "${VERSION}" -f pack.toml -w toml '.version' 
+	$(call switch_profile,main)
 	@$(PACKWIZ) refresh
 
 __switch-lite:
-	@if [[ -z "${VERSION}" ]]; then \
-		echo "Provide a version number" && exit 1; \
-	fi
-	$(lite-configs)
-	@$(DASEL) put -t string -v "${VERSION}l" -f pack.toml -w toml '.version' 
+	$(call switch_profile,lite)
 	@$(PACKWIZ) refresh
 
 __switch-admin:
-	@if [[ -z "${VERSION}" ]]; then \
-		echo "Provide a version number" && exit 1; \
-	fi
-	$(admin-configs)
-	@$(DASEL) put -t string -v "${VERSION}a" -f pack.toml -w toml '.version' 
+	$(call switch_profile,admin)
 	@$(PACKWIZ) refresh
 
 __build-main: __switch-main __build-dir
