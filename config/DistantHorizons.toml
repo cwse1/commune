@@ -1,0 +1,5 @@
+_version = 3
+
+[common]
+  [common.worldGenerator]
+    enableDistantGeneration = false

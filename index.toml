@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "346671af3c9c6927fc9c061bea67efb4c3711bec72bf071a9b72fa830b32a806"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
 
@@ -209,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "437c79f4d3dd3c9f765271c3c56fcd524cc113193611d9e9fe2f34dc9944fa01"
+hash = "0b46c71d887df8f324a124dc8987f57c35b29afb7b6918fc2e2b726cd0f49162"
 metafile = true
 
 [[files]]
