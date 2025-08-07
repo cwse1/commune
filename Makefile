@@ -1,7 +1,6 @@
 DASEL := $(shell which dasel)
 PACKWIZ := $(shell which packwiz)
 MAKE := $(shell which make)
-# SHELL := /bin/bash
 
 PROFILE_MAIN := profiles/main/
 PROFILE_LITE := profiles/lite/
@@ -25,16 +24,6 @@ define main-configs
 	done
 endef
 
-define main-mods
-	@for item in ${PROFILE_MAIN}mods/*; do \
-		if [[ ! -f "$$item" ]]; then \
-			echo "No configs to copy"; \
-		else \
-			$(DASEL) put -t bool -v true -f mods/$$(basename $${item}) -r toml -s 'option.default'; \
-		fi \
-	done
-endef
-
 define lite-configs
 	@cp ${PROFILE_LITE}.packwizignore-lite .packwizignore
 	@for item in ${PROFILE_LITE}config/*; do \
@@ -49,16 +38,6 @@ define lite-configs
 			echo "No configs to copy"; \
 		else \
 			cp $$item kubejs/config/$$(basename $${item/-lite/}); \
-		fi \
-	done
-endef
-
-define lite-mods
-	@for item in ${PROFILE_LITE}mods/*; do \
-		if [[ ! -f "$$item" ]]; then \
-			echo "No configs to copy"; \
-		else \
-			$(DASEL) put -t bool -v false -f mods/$$(basename $${item}) -r toml -s 'option.default'; \
 		fi \
 	done
 endef
@@ -81,16 +60,6 @@ define admin-configs
 	done
 endef
 
-# define admin-mods
-# 	@for item in ${PROFILE_ADMIN}mods/*; do \
-# 		if [[ ! -f "$$item" ]]; then \
-# 			echo "No configs to copy"; \
-# 		else \
-# 			$(DASEL) put -t bool -v true -f mods/$$(basename $${item}) -r toml -s 'option.default'; \
-# 		fi \
-# 	done
-# endef
-
 # .PHONY: help 
 
 # help:
@@ -106,7 +75,6 @@ __switch-main:
 		echo "Provide a version number" && exit 1; \
 	fi
 	$(main-configs)
-	$(main-mods)
 	@$(DASEL) put -t string -v "${VERSION}" -f pack.toml -w toml '.version' 
 	@$(PACKWIZ) refresh
 
@@ -115,7 +83,6 @@ __switch-lite:
 		echo "Provide a version number" && exit 1; \
 	fi
 	$(lite-configs)
-	$(lite-mods)
 	@$(DASEL) put -t string -v "${VERSION}l" -f pack.toml -w toml '.version' 
 	@$(PACKWIZ) refresh
 
@@ -124,7 +91,6 @@ __switch-admin:
 		echo "Provide a version number" && exit 1; \
 	fi
 	$(admin-configs)
-	$(main-mods)
 	@$(DASEL) put -t string -v "${VERSION}a" -f pack.toml -w toml '.version' 
 	@$(PACKWIZ) refresh
 
