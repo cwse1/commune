@@ -20,7 +20,7 @@ define switch-configs
 	done
 endef
 
-define switch_profile
+define switch-profile
 	@if [[ -z "${VERSION}" ]]; then \
 		echo "Provide a version number" && exit 1; \
 	fi
@@ -43,15 +43,15 @@ __build-dir:
 	fi
 
 __switch-main:
-	$(call switch_profile,main)
+	$(call switch-profile,main)
 	@$(PACKWIZ) refresh
 
 __switch-lite:
-	$(call switch_profile,lite)
+	$(call switch-profile,lite)
 	@$(PACKWIZ) refresh
 
 __switch-admin:
-	$(call switch_profile,admin)
+	$(call switch-profile,admin)
 	@$(PACKWIZ) refresh
 
 __build-main: __switch-main __build-dir
