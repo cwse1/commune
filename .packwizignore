@@ -3,6 +3,7 @@ build/
 profiles/
 Makefile
 docs/
+modslist.md
 README.md
 
 # admin only

@@ -3,4 +3,5 @@ build/
 profiles/
 Makefile
 docs/
+modlist.md
 README.md

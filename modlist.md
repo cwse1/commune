@@ -1,0 +1,235 @@
+Server performance:
+- C2ME
+- Carpet
+- Chunky
+- Chunky Border
+- Ferrite Core
+- LazyDFU
+- Lithium
+- ServerCore
+- Spark
+- You Shall Not Spawn
+
+World generation:
+- Cinderscapes
+- ChoiceTheorem's Overhauled Villages
+- Dungeons and Taverns Suite
+- Geophilic
+- Let's Do Addon Structures
+- Let's Do Blooming Nature
+- Lootr
+- Repurposed Structures
+- Star Wars Planets
+- Terrestria
+- Traverse
+
+Client enhancements:
+- 3D Skin Layers
+- Adaptive Tooltips
+- Amecs
+- Appleskin
+- Areas
+- AuthMe
+- Bad Optimizations
+- Better Advancements
+- Better Third Person
+- Better F3
+- Blockmeter
+- Blur+
+- Bobby
+- Charmonium
+- Chat Heads
+- Continuity
+- Cull Less Leaves
+- Dark Loading Screen 
+- Distant Horizons
+- Dynamic FPS
+- Eating Animation
+- Enhanced Block Entities
+- Effective
+- Emotecraft
+- EmoteTweaks
+- Entity Culling
+- Extreme Sound Muffler
+- Fadeless
+- Fast Quit
+- First Person Model
+- Fusion Connected Textures
+- Immediately Fast
+- Indium
+- Iris
+- LambDynamicLights
+- Mod Menu
+- MoreCulling
+- MouseTweaks
+- Not Enough Animations
+- Ok Zoomer
+- REI Collapsible Entries
+- REI
+- ReplayMod
+- Roughly Enough Professions
+- Show Your Skin
+- Sodium
+- Visuality
+- WTHIT
+- Xaero's Minimap
+- Xaero's Worldmap
+
+Tech/Automation:
+- Ad Astra
+- Ad Astra Giselle Addon
+- AE2
+- AppliedBotanics
+- AE2 Wireless Terminals
+- Botania
+- BotanyPots
+- BotanyTrees
+- Building Wands
+- Computer Craft: Tweaked
+- Computer Craft Create: Bridge
+- Create Dreams and Desires
+- Create Enchantment Industries
+- Create Fabric
+- Create Food
+- Create Jetpack
+- Create Ore Excavation
+- Create Steam 'n' Rails
+- Create Utilites
+- Create Crafts and Additions
+- Extended AE
+- Polymorphic Energistics
+- Powah
+- PowerAE2CC
+
+Fantasy/Fun:
+- Cultural Delights
+- Deeper and Darker
+- Do a Barrel Roll
+- Create: Estrogen
+- Exposure
+- Farmers Delight Refabricated
+- From the Fog
+- Immersive Melodies
+- Joy of Painting
+- Let's Do Addon Corn Expansion
+- Let's Do Addon Fluids
+- Let's Do Bakery
+- Let's Do Beachparty
+- Let's Do Brewery
+- Let's Do Candlelight
+- Let's Do Farm and Charm
+- Let's Do Herbal Brews
+- Let's Do Meadow
+- Let's Do Vinery
+- Let's Do Camping
+- Let's Do Wilder Nature
+- More Delight
+- Music Maker Mod
+- Pehkui
+- Simple Voice Chat
+- Create: Slice and Dice
+- Styled Nicknames
+- Tempad
+- Wizards
+
+Decoration:
+- Adorn
+- Beautify Refabricated
+- Create: Bells and Whistles
+- Chipped
+- Clutter
+- Create: Deco
+- Create: Deco Additions
+- Handcrafted
+- Immersive Paintings
+- Create: Interiors
+- Let's Do Furniture
+- Rechiseled
+- Storage Delight
+- Supplementaries
+- Windchimes
+
+Environment/Nature:
+- Critters and Companions
+- Naturalist
+- Promenade
+
+Quality of life:
+- Amendments
+- Carry On
+- Dismount Entity
+- Harvest Scythes
+- Nature's Compass
+- Not Enough Trinket Slots
+- Piercing Paxels
+- Rings of Ascension
+- Things
+- Trample No More
+- Traveler's Backpack
+- Visual Workbench
+
+Library mods:
+- Airbag
+- Architectury API
+- Azurelib Armor
+- Azurelib
+- Badpackets
+- BookshelfLib
+- Botarium
+- Cardinal Components API
+- CICADA
+- CIT Resewn
+- Cloth Config
+- Collective
+- Dawn API
+- Let's Do API
+- Entity Model Features
+- Entity Texture Features
+- Entity Sound Features
+- Forge Config API Port
+- Geckolib
+- Glodium
+- Iceberg
+- Krypton
+- Lavender
+- KubeJS
+- KubeJS Offline
+- KubeJS Additions
+- LibZoomer
+- Lithostithced
+- Let's Do Addon Compatibility
+- MaliLib
+- Max Health Fix
+- Megane
+- Moonlight
+- Necronomicon
+- Night Auto Config
+- Nucleoid Creator Tools
+- OwoLib
+- Patchouli
+- Plasmid
+- Player Animator
+- Polymer
+- Polytone
+- ProbeJS
+- PuzzlesLib
+- Quilt Kotlin Libraries
+- Quilt Standard Libraries
+- Resourceful Config
+- Resourceful Lib
+- Rhino
+- Runes
+- Satin API
+- Servux
+- Smart Brain Lib
+- Spell Engine
+- Spell Power Engine
+- SuperMartinJ642's Config Lib
+- SuperMartinJ642's Core Lib
+- Trinkets
+- YetAnotherConfigLib
+
+My extras:
+- MiniHUD
+- Tweakeroo
+
