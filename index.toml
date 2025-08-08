@@ -173,10 +173,6 @@ file = "kubejs/server_scripts/veins.js"
 hash = "252cfa8b3972b720a408ead67929852d923dc21d10c8caadf24043ebd433479c"
 
 [[files]]
-file = "modlist.md"
-hash = "f92ef1e51c2df778996e38c161e2ed254663b22d4114256528e33e4afa8bba54"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "ff6f8b46441d2b259c173a9fbf3dfd639b0506d347e0d69d1f278630952f9961"
 metafile = true
