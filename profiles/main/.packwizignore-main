@@ -3,8 +3,7 @@ build/
 profiles/
 Makefile
 docs/
-modslist.md
-README.md
+*.md
 
 # admin only
 mods/minihud*

@@ -1,16 +1,16 @@
 name = "Simple Voice Chat"
-filename = "voicechat-quilt-1.20.1-2.5.35.jar"
+filename = "voicechat-quilt-1.20.1-2.5.36.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/DkwYD0Yz/voicechat-quilt-1.20.1-2.5.35.jar"
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/RaTu7yCg/voicechat-quilt-1.20.1-2.5.36.jar"
 hash-format = "sha512"
-hash = "ae723859980d2f2473d099a609dc01f99ecfc8ae0befb3c79a8617fd686152ed6d9d8256724d7f75be42d500f61e9b3911de048d434e674d44ba42f7140fd704"
+hash = "ecf6d5c0764b4862c5a6a62fd502844f3798f1bfffbb6aee2c4168ba51c70620602fd9bdd06278b06baa394d6b567483789d4c1d2fb0a6f834d844a205f494e8"
 
 [update]
 [update.modrinth]
 mod-id = "9eGKb6K1"
-version = "DkwYD0Yz"
+version = "RaTu7yCg"
 
 [option]
 optional = false

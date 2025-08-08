@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "0b46c71d887df8f324a124dc8987f57c35b29afb7b6918fc2e2b726cd0f49162"
+hash = "d488388802b084cbb4e1035f096a62fa7694392474e15f0a4159e5e21c67e78d"
 metafile = true
 
 [[files]]
@@ -1172,7 +1172,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6d9f0b1a989f3308156eec12cb57755e04e26b44ec8477041278d485985e5c5a"
+hash = "5755369f855eb937fd0f80bfd92fecbd9a5a3520fd32bc34bfb65025922dc85a"
 metafile = true
 
 [[files]]
