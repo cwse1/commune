@@ -33,6 +33,6 @@ Use a tool such as [`mrpack-install`][mrpack-install-url] or [`docker-compose`][
 - Minimize config files
 
 [gh-modlist-url]: <https://github.com/cwse1/commune/blob/main/modlist.md>
-[gh-credits-url]: <>
+[gh-credits-url]: <https://github.com/cwse1/commune/blob/main/credits.md>
 [mrpack-install-url]: <https://github.com/nothub/mrpack-install>
 [docker-compose-url]: <https://github.com/docker/compose>
